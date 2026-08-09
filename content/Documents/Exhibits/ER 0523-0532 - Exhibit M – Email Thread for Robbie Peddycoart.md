@@ -1,0 +1,448 @@
+---
+title: "Exhibit M – Email Thread for Robbie Peddycoart"
+type: Exhibit
+case: BHU
+case_full: "BHU v. City of Berkeley (3:25-cv-01414-EMC)"
+filed: 2026-03-11
+docket: "272-13"
+er_start: 523
+er_end: 532
+volume: 3
+cite: "3-ER-523"
+filed_by: ""
+parent: "Declaration of Yesica Prado ISO of Ex Parte Motion for TRO"
+tags: [ER, exhibit, bhu]
+---
+
+# Exhibit M – Email Thread for Robbie Peddycoart
+
+**Exhibit** | BHU v. City of Berkeley (3:25-cv-01414-EMC) | Filed 2026-03-11 | Dkt. 272-13 | **ER 523–532** (Vol. 3)
+Record cite format: `3-ER-523` … `3-ER-532`
+
+*Attachment to: [[ER 0402-0409 - Declaration of Yesica Prado ISO of Ex Parte Motion for TRO|Declaration of Yesica Prado ISO of Ex Parte Motion for TRO]]*
+
+## ER-523
+
+EXHIBIT M
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 1 of 10
+ER-523
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (123 of 235)
+
+## ER-524
+
+Berkeley Homeless Union <berkeley.homeless.union@gmail.com>
+REQUEST: ADA Accommodation for Robbie Peddycoart
+5 messages
+Berkeley Homeless Union <berkeley.homeless.union@gmail.com> Thu, Feb 26, 2026 at 10:31 AM
+To: "Gregory, Thomas" <tgregory@berkeleyca.gov>, "Radu, Peter" <pradu@berkeleyca.gov>, ovancedozier@berkeleyca.gov
+Hi Mr. Gregory and Homeless Response Team,
+I am writing on behalf of Robbie Peddycoart, a disabled member of the Berkeley Homeless Union currently residing in a
+tent/structure on Harrison Street between 7th and 8th streets, to formally submit a request for reasonable
+accommodations under the Americans with Disabilities Act (ADA).
+Please find below the information required to initiate this request:
+1. Disability Verification
+Mr. Peddycoart lives with multiple documented disabilities, for which he receives SSDI (Social Security Disability
+Insurance), including:
+Autoimmune and Chronic Pain Conditions:
+Spondylitis
+Lupus
+Ankylosing 
+Reactive arthritis
+Mental Health Disabilities:
+Depression
+Post-Traumatic Stress Disorder (PTSD)
+Severe anxiety
+These conditions substantially limit one or more major life activities, including walking, standing, sitting for extended
+periods, lifting, carrying, sleeping, concentrating, regulating emotions and handling stress. His autoimmune conditions
+cause chronic pain, fatigue, and mobility limitations, while his mental health disabilities impair his ability to process stress,
+navigate complex systems and feel safe.
+Mr. Peddycoart receives care from the Lifelong Medical Street Team. We are in the process of obtaining medical
+verification from his provider and will forward it to you as soon as it becomes available. Given the urgency of the
+enforcement timeline, we ask that the City proceed with the interactive process based on the disabilities self-reported in
+his signed accommodation request form (attached), pending receipt of formal verification.
+2. Nexus Between Disabilities and the City's Encampment Policies
+The City's standard encampment management policies—as outlined in the February 17, 2026 Public Notice—will, if
+applied to Mr. Peddycoart without modification, foreseeably aggravate his disabilities in the following ways:
+a) Short-notice relocation
+His PTSD, severe anxiety and depression require predictability and stability. Sudden displacement triggers panic,
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 2 of 10
+ER-524
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (124 of 235)
+
+## ER-525
+
+emotional dysregulation and physical stress responses that exacerbate both his mental health symptoms and his
+autoimmune conditions (which flare under stress).
+b) Physical demands of relocation
+Due to his spondylitis, lupus, and arthritis, Mr. Peddycoart cannot lift heavy objects, walk long distances, stand for
+extended periods, or engage in sustained physical activity. Requiring him to pack and move his belongings without
+assistance would cause severe pain and potential injury.
+c) 9-square-foot limit on sidewalks
+Compliance is physically impossible without abandoning his tent (his medical equipment and only accessible shelter),
+mobility aids and essential belongings. The space is too small for him and his emotional support dogs to rest, store his
+necessities, or protect his body from the elements—critical for managing autoimmune conditions.
+d) Separation from support animals
+Mr. Peddycoart relies on emotional support animals (two dogs) to manage his PTSD, anxiety and depression. These
+animals are not pets—they are medical equipment that provide emotional regulation, grounding and a sense of safety.
+Separating him from his dogs would trigger acute psychological distress and destabilize his mental health.
+e) Threat of citation, arrest, and property destruction
+Penalizing Mr. Peddycoart for disability-related inability to comply—such as moving too slowly, being unable to pack within
+time limits, or being unable to fit his belongings into 9 square feet—would constitute discrimination under the ADA. The
+stress of such encounters can trigger autoimmune flares and mental health crises.
+f) No property storage due to leptospirosis
+Losing all of his belongings—including medications, medical supplies, and items essential to daily survival—would be
+devastating. For someone with chronic autoimmune conditions, losing access to medications and adaptive items can lead
+to serious medical deterioration.
+g) Forced relocation without an accessible destination
+Moving Mr. Peddycoart from one outdoor location to another does not achieve the City's stated goal of "moving all people
+indoors." It merely destabilizes him, disrupts access to medical care and exposes him to repeated physical strain and
+stress—each time increasing risk of autoimmune flare and mental health crisis.
+h) Lack of sanitation services
+His autoimmune conditions require access to clean water, restroom facilities, and basic sanitation. Without these, his risk
+of infection and medical complications increases significantly.
+3. Requested Accommodations
+Based on Mr. Peddycoart's completed accommodation request form and his multiple disabilities, we respectfully request
+the following accommodations:
+1) A Safe Location to Relocate
+Mr. Peddycoart requires a clearly designated, safe location where he can relocate without fear of citation, arrest, or
+property destruction. This location must:
+Be accessible to someone with significant mobility limitations and chronic pain
+Provide access to basic sanitation (restroom, clean water, trash pickup)
+Be within reasonable distance to medical and social services
+Allow him to rest without immediate threat of further displacement
+2) Non-Congregate Shelter Placement (private room with bathroom)
+A hotel room or other private, low-stimulation shelter unit with a private bathroom where Mr. Peddycoart can manage his
+medical needs with dignity.
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 3 of 10
+ER-525
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (125 of 235)
+
+## ER-526
+
+3) Temporary Stay-in-Place Pending Accessible Housing
+If no non-congregate shelter is immediately available, Mr. Peddycoart must be permitted to remain temporarily in the 8th &
+Harrison area until an accessible room becomes available. Stability is medically necessary to prevent physical and
+psychological stress.
+4) Physical Assistance with Relocation
+Due to his severe physical limitations, Mr. Peddycoart requires City staff assistance with lifting and transporting his
+medical supplies and essential belongings to any new location. This assistance must be:
+Scheduled in advance
+Completed at a pace that does not cause physical strain or pain
+Take into account his emotional support animals
+Broken into manageable segments with rest breaks as needed
+5) Storage for Essential Belongings (especially medical supplies)
+We acknowledge the City's concern regarding leptospirosis. However, we request that the City identify a safe storage
+option for Mr. Peddycoart's essential items—particularly his medications, medical supplies and items necessary for daily
+survival.
+6) ADA-Exempted Footprint
+A permanent accommodation allowing Mr. Peddycoart to maintain a tent footprint larger than the standard 9-square-foot
+limit—sufficient to accommodate himself, his emotional support animals, his medical supplies and essential belongings—
+on any public sidewalk where:
+He is not blocking pedestrian access, meaning a clear path remains for others to pass safely; and
+If located on a narrower sidewalk, the opposite side of the street remains clear for alternative pedestrian access.
+This modification recognizes that for Mr. Peddycoart, his tent functions as medical equipment and his only accessible
+shelter, helping prevent the aggravation of his disabilities.
+7) Accommodation for Support Animals (dogs)
+Mr. Peddycoart relies on emotional support animals, two dogs, to manage his PTSD, anxiety and depression. These
+animals are medical equipment prescribed by his healthcare provider. We request:
+Formal recognition that his dogs are support animals and must remain with him at all times;
+Confirmation that any shelter placement will permit his dogs without breed, weight, or fee restrictions upon
+presentation of documentation;
+That dog food, supplies, and bedding be treated as essential medical supplies and not discarded during any
+enforcement;
+That during any relocation, staff permit him to maintain control of his dogs at all times;
+That any temporary relocation site be safe for his dogs (clean water, space for toileting)
+8) Advance Written Notice of Any Enforcement
+Due to his PTSD, anxiety, and stress-triggered autoimmune flares, Mr. Peddycoart requires advance written notice of any
+enforcement, cleaning, or relocation activity affecting his location—with at least 30 days' advance notice—to allow him
+time to:
+Process the information without acute stress
+Arrange for medical and emotional support during the transition
+Prepare his belongings at a pace that does not endanger his health
+Coordinate with his healthcare provider
+9) Visual Aid / Map of Permissible Locations
+A simple, visual map, diagram, list, or document showing where he may legally relocate within the city, including areas
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 4 of 10
+ER-526
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (126 of 235)
+
+## ER-527
+
+where tents are permitted and sanitation services are available. This reduces uncertainty and stress.
+10) Temporary Sanitation Services
+If Mr. Peddycoart must remain outdoors temporarily, we request access to:
+Portable restrooms within reasonable distance
+Clean water for drinking and hygiene
+Trash disposal services to maintain sanitary conditions
+These are essential for managing his autoimmune conditions and preventing infection.
+11) Low-Stimulation Meetings
+Any meetings regarding his accommodations or relocation must be conducted in a low-stimulation environment with:
+Advance scheduling
+A quiet, private space
+Permission to bring his support animals
+Breaks as needed
+A single, consistent point of contact
+This accommodates his PTSD, anxiety, and need for predictability.
+12) Designated Point of Contact
+A single, consistent point of contact from HRT or the ADA Coordinator to help Mr. Peddycoart navigate the relocation
+process. Frequent changes in staff will cause confusion and increase anxiety.
+4. Request for Interactive Process Meeting
+We respectfully request an in-person meeting with the ADA Coordinator, HRT, Mr. Peddycoart, a Union representative,
+and his medical provider (Lifelong Medical Street Team) to discuss these accommodations in detail and ensure a
+thorough, individualized interactive process.
+5. Immediate Next Steps Requested
+To fulfill the ADA's requirements and avoid foreseeable harm to Mr. Peddycoart, we ask the City to:
+Pause any enforcement activity toward Mr. Peddycoart pending full review of this request and completion of the 
+interactive process;
+Confirm receipt of this request within 48 hours;
+Provide available dates for a low-stimulation meeting within the next week;
+Provide a substantive response to each of the requested accommodations listed above;
+Suggest alternatives if any of the requested accommodations are deemed not feasible, so that we can continue the
+interactive process in good faith.
+We ask that the City not delay the interactive process while awaiting medical documentation, given the imminent
+enforcement deadline.
+Mr. Peddycoart is ready and willing to engage in good faith. We look forward to working collaboratively to ensure his
+disability-related needs are met.
+Sincerely,
+Yesica Prado
+Berkeley Homeless Union Representative
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 5 of 10
+ER-527
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (127 of 235)
+
+## ER-528
+
+ADA-Robbie Peddycoart.jpg
+4737K
+Mailsuite Notification <notification@mailsuite.com> Thu, Feb 26, 2026 at 10:49 AM
+Reply-To: tgregory@berkeleyca.gov, pradu@berkeleyca.gov, ovance-dozier@berkeleyca.gov
+To: berkeley.homeless.union@gmail.com
+🔥 Hot conversation: Gregory, Thomas opened it many times in a short period or forwarded it. View all 10 opens |
+turn off hot conversations
+Mailsuite Notification <notification@mailsuite.com> Thu, Mar 5, 2026 at 3:21 PM
+Reply-To: tgregory@berkeleyca.gov, pradu@berkeleyca.gov, ovance-dozier@berkeleyca.gov
+To: berkeley.homeless.union@gmail.com
+📆 Old conversation revival: Gregory, Thomas opened it 1 week after it was sent. See tracking history or turn off
+revival notifications
+Mailsuite Notification <notification@mailsuite.com> Thu, Mar 5, 2026 at 5:06 PM
+Reply-To: tgregory@berkeleyca.gov, pradu@berkeleyca.gov, ovance-dozier@berkeleyca.gov
+To: berkeley.homeless.union@gmail.com
+🔥 Hot conversation: Gregory, Thomas opened it many times in a short period or forwarded it. View all 19 opens |
+turn off hot conversations
+Gregory, Thomas <TGregory@berkeleyca.gov> Fri, Mar 6, 2026 at 1:37 PM
+To: Berkeley Homeless Union <berkeley.homeless.union@gmail.com>
+Cc: "Radu, Peter" <pradu@berkeleyca.gov>, "Vance-Dozier, Okeya" <OVance-Dozier@berkeleyca.gov>
+Hi Yesica,
+Thank you for reaching out on behalf of Mr. Robbie Peddycoart.
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 6 of 10
+ER-528
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (128 of 235)
+
+## ER-529
+
+You have submitted substantially similar requests on behalf of numerous individuals over the past
+several months, and you have previously been advised that such requests would constitute a
+fundamental alteration of the City’s operations, impose an undue burden, or, in the case of shelter,
+do not constitute a form of reasonable accommodation under the ADA, regardless of any particular
+individual’s disabilities. Under Title II of the ADA, the City may deny requests based on
+fundamental alteration or undue burden, because of the impact that a particular request would
+have on the City and its programs or services. As I have previously informed you, those impacts to
+the City are the same, regardless of the individual’s disability or the nexus for their request. These
+determinations, including alternatives where feasible, were made by me in consultation with the
+City Manager’s Office and relevant City departments and staff.
+Re your first enumerated request (“A Safe Location to Relocate”), no sanctioned campsite
+exists in Berkeley, and there are no enforcement-free zones. The City’s encampment-related
+requirements are established through municipal code provisions, administrative regulations, and
+City Council resolutions that apply citywide and are subject to change based on public health,
+safety, and legal considerations. Enforcement determinations are location-specific and conditiondependent. Establishing a sanctioned campsite would constitute the creation of a new City
+program, which is not required under Title II of the ADA.
+Re your second enumerated request (“Non-Congregate Shelter Placement”), shelter
+placement is not itself a reasonable accommodation under Title II of the ADA. The provision of
+shelter is a public service that may be available depending on eligibility, capacity, and prioritization
+criteria. The ADA requires reasonable modifications to policies to ensure equal access to an
+existing program; it does not require the creation of new housing resources or the guarantee of a
+specific housing outcome.
+Once Mr. Peddycoart is offered non-congregate shelter through the City’s Homeless Response
+Team (HRT), he may request reasonable modifications related to the shelter environment itself,
+and those would be evaluated in that context. Mr. Peddycoart is encouraged to contact HRT to
+learn about currently available non-congregate shelter opportunities. He may also contact 211 or
+visit this link: https://berkeleyca.gov/safety-health/homeless-services for information
+regarding shelter and homeless resources.
+Re your third enumerated request (“Temporary Stay-in-Place Pending Accessible
+Housing”), to the extent the request seeks an indefinite pause on enforcement at the current
+location, the City cannot grant that request. Allowing an individual to remain in place
+notwithstanding the need to abate conditions associated with confirmed leptospirosis would require
+the City to suspend or override the need for a timely abatement to control vectors and prevent the
+spread of communicable disease, which is a fundamental part of its encampment management
+and public health response programs. Such a modification would fundamentally alter the nature of
+those programs, which are specifically designed to enable prompt intervention when encampments
+pose imminent risks to public health and safety.
+An open-ended suspension of enforcement in these circumstances would also prevent the City
+from carrying out required vector control measures and would undermine its ability to respond
+consistently to emergent health hazards across the public right-of-way. The City’s planned actions
+are consistent with City Council Resolution No. 71,513-N.S., which authorizes enforcement and
+abatement where encampments present imminent health hazards, even when shelter is not
+immediately available. As an alternative, the City will grant Mr. Peddycoart an
+accommodation to remain through March 10, 2026. The City cannot grant additional time
+without causing the fundamental alteration I have explained above.
+Re your fourth enumerated request (“Physical Assistance with Relocation”), under normal
+circumstances, City staff could help a disabled member of an encampment physically pack safe
+and hygienic possessions if the individual is moving those possessions to a City-sponsored
+shelter. However, staff currently cannot sort, bag, or handle these items, even with personal
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 7 of 10
+ER-529
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (129 of 235)
+
+## ER-530
+
+protective equipment, because the City’s Public Health Officer has determined that, based on
+recently observed conditions at the encampment, the belongings are highly likely to be
+contaminated with Leptospira through rat urine, rat carcasses, live rats, or mud. Handling such
+items would pose a significant public health risk to City staff, constituting an undue administrative
+burden. The City has repeatedly conducted direct public health outreach at the encampment and
+provided several rounds of notices informing residents of its inability to handle or store belongings,
+and it has repeatedly communicated the same information to you, to try to minimize negative
+impacts on those remaining at the encampment.
+Re your fifth enumerated request (“Storage for Essential Belongings”), the City is unable to
+accommodate a request to store belongings. Public Works and HRT staff cannot sort, bag, or
+handle these items, even with personal protective equipment, because the City’s Public Health
+Officer has determined that, based on recently observed conditions at the encampment, the
+belongings are highly likely to be contaminated with Leptospira through rat urine, rat carcasses,
+live rats, or mud. Handling such items would pose a significant public health risk to City staff,
+constituting an undue administrative burden. In addition, the City cannot store potentially
+contaminated items, as the Public Health Officer has advised that Leptospira can survive on
+contaminated materials for weeks. Requiring the City to accept such items into storage would
+impose an undue burden, given the substantial administrative effort that would be needed either to
+mitigate those risks or to decontaminate the storage facility after the items were kept there. This is
+consistent with the City’s storage policy that generally excludes the storage of items presenting a
+health or safety risk.
+Re your sixth enumerated request (“ADA-Exempted Footprint”), Berkeley Administrative
+Regulation 10.2 requires that individuals occupy no more than 9 square feet on the sidewalk.
+Permitting even a modest increase in that square footage would occupy a substantial portion of the
+sidewalk on many City streets and could extend into the roadway, impairing ADA-required
+pedestrian clearances, limiting emergency access, interfering with vehicle travel and parking, and
+constraining the City’s ability to manage public health and safety risks. Granting an individualized
+exemption to Berkeley Administrative Regulation 10.2 would constitute a fundamental alteration of
+the City’s regulatory framework governing the public right-of-way. The City’s municipal codes and
+administrative regulations establish uniform, citywide standards for sidewalk use that are designed
+to preserve accessible pedestrian travel, ensure emergency access, reduce health and safety
+hazards, and allow the City to manage competing uses of limited public space. These standards
+apply baseline rules that apply to all members of the public, regardless of housing status, and are
+implemented through a prioritization rubric focused on relative health and safety impacts.
+Re your seventh enumerated request (“Accommodation for Support Animals”), if the
+animal(s) in question are service animals then they may go/be anywhere that Mr. Peddycoart may
+go/be. If the animal(s) in question are emotional support animals then they may accompany Mr.
+Peddycoart to the extent that he is actively participating in any shelter program provided that Mr.
+Pettycoart provides documentation from a qualified professional confirming that the animal(s) in
+question are necessary for Mr. Peddycoart’s mental wellbeing.
+Re your eighth enumerated request (“Advance Written Notice of Any Enforcement”), the City
+is unable to grant a request for 30 days’ notice to vacate the encampment. Providing that extended
+notice would constitute a fundamental alteration of the City’s encampment management program
+because it would prevent the City from effectively addressing public health hazards, including the
+presence of Leptospira identified at the encampment. As part of its ongoing encampment
+management program, the City has repeatedly provided both written and verbal notices regarding
+the need to relocate since January 2025. Your email below cites that Mr. Peddycoart has been on
+notice since at least February 17, 2026, over two weeks ago, which the City has determined is
+sufficient, to the extent he requires additional time to relocate.
+The requested 30-day notice would also fundamentally alter the City’s ability to implement its
+encampment management program in a way that flexibly responds to health and safety conditions
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 8 of 10
+ER-530
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (130 of 235)
+
+## ER-531
+
+in the community. The presence of Leptospira at the encampment illustrates the types of public
+health risks that require the City to act promptly to protect residents, staff, and the community. For
+these reasons, the City cannot accommodate the requested extended notice period.
+Re your ninth enumerated request (“Visual Aid / Map of Permissible Locations”), the ADA
+requires public entities to modify policies and procedures when necessary to ensure that
+individuals with disabilities have equal access to public programs. However, the City is not
+obligated to create individualized maps or pre-approved locations that guarantee immunity from
+enforcement. As previously explained, the City’s encampment-related requirements are
+established through a combination of municipal code provisions, administrative regulations, and
+City Council resolutions, all of which are subject to change based on public health conditions,
+safety concerns, and legal requirements. Park rules prohibit overnight camping and unattended
+property exceeding ten square feet without a permit. The Berkeley Municipal Code and
+Administrative Regulation 10.2 generally prohibit structures exceeding nine square feet on
+sidewalks and also prohibit lodging or storage of property on medians and within City building
+curtilage.
+In limited circumstances, individuals may remain on certain sidewalks with property not exceeding
+nine square feet, provided pedestrian access is maintained, facilities are not obstructed, and the
+location is not designated as a no lodging area. Even in those circumstances, all individuals remain
+subject to enforcement based on health and safety impacts, nuisance conditions, and compliance
+with applicable law. Because enforcement determinations are location specific, condition
+dependent, and responsive to changing circumstances, it is not possible for the City to identify
+locations where camping would be categorically free from enforcement.
+Further, no map identifying enforcement-free locations exists in City records. Creating a map that
+would illustrate areas less likely to draw enforcement would require extensive staff time, sitespecific analysis, and physical measurement of sidewalks and public spaces throughout the City
+and would therefore constitute an undue administrative burden under Title II. As an alternative, the
+City has summarized the applicable regulatory framework to assist in understanding how
+enforcement decisions are made but cannot provide individualized guarantees regarding future
+enforcement outcomes.
+Re your tenth enumerated request (“Temporary Sanitation Services”), the City has, in limited
+circumstances, provided portable restrooms, trash receptacles, and limited waste services at
+certain encampments as population-level public health measures. Decisions about whether to
+deploy these services depend on site conditions, public health guidance, operational feasibility, and
+broader encampment priorities, including the allocation of limited resources. These services are
+deployed as part of the City’s encampment management program and are not provided on an
+individual basis. Also, when an encampment is cleared, associated sanitation and waste services
+are discontinued.
+Providing sanitation services to an individual who remains outside following an encampment
+closure would require the City to fundamentally alter how its encampment management program
+operates. Under current practice, sanitation resources, such as portable restrooms, trash
+receptacles, and waste services, are deployed at certain active encampments as population-level
+public health measures based on the number of people present, site conditions, and available
+resources. These services are designed to address conditions at encampment sites, not to operate
+as individual services.
+Extending those services to a single individual after an encampment has been cleared would shift
+the program from a site-based public health measure to an individualized service. Doing so would
+require the City to fundamentally alter the program and redirect limited sanitation resources in a
+way that the program is not structured to support. For that reason, granting the request would
+fundamentally alter how the City’s encampment management program functions.
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 9 of 10
+ER-531
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (131 of 235)
+
+## ER-532
+
+In addition, providing on-demand individualized sanitation services would effectively create a new
+program or service. Title II of the ADA requires reasonable modifications to existing programs but
+does not require public entities to create entirely new programs.
+The City does, however, contract with community partners that provide sanitation and related
+services to individuals in need. For example, Dorothy Day House operates a drop-in center at its
+main shelter in downtown Berkeley that is open seven days a week, year-round. The center offers
+meals, showers, laundry, clothing, lockers, mail services, internet access, respite space, housing
+support, ID and DMV assistance, workforce training, and referrals for medical and addiction
+services. More information about these services is available here: https://www.dorothydayhouse.
+org/services. The City also maintains public restroom facilities at various locations throughout the
+City that are available for public use.
+Re your eleventh enumerated request (“Low-Stimulation Meetings”), the City is not requiring
+Mr. Peddycoart to attend any meetings. Whenever Mr. Peddycoart arranges a meeting with a City
+staff person, he is welcome to contact me to explain the specific requests he has to minimize the
+possibility that he will become overstimulated, and I will facilitate those accommodation requests
+as best as possible for each meeting, consistent with my duties as the City’s ADA Coordinator.
+Re your twelfth enumerated request (“Designated Point of Contact”), Mr. Peddycoart may
+contact me at (510) 981-6418 ada@cityofberkeley.info if he has questions.
+This constitutes the City’s final determination regarding the accommodation requests submitted on
+Mr. Peddycoart’s behalf. If Mr. Peddycoart disagrees with this determination, he may choose to file
+a grievance through the City’s ADA grievance: https://berkeleyca.gov/sites/
+default/files/documents/ADA%20Grievance%20Procedure%20and%20Form%20-%20updated%
+20Feb2024%20-%20WCAG-compliant.pdf.
+Best,
+Thomas Gregory / ADA Program Coordinator
+City of Berkeley, Public Works Department
+1947 Center Street, 5th Floor
+Berkeley, CA 94704
+(510) 981-6418
+From: Berkeley Homeless Union <berkeley.homeless.union@gmail.com>
+Sent: Thursday, February 26, 2026 10:31 AM
+To: Gregory, Thomas <TGregory@berkeleyca.gov>; Radu, Peter <pradu@berkeleyca.gov>; Vance-Dozier, Okeya
+<OVance-Dozier@berkeleyca.gov>
+Subject: REQUEST: ADA Accommodation for Robbie Peddycoart
+WARNING: This is not a City of Berkeley email. Do not click links or attachments unless you trust the sender and know the
+content is safe.
+[Quoted text hidden]
+Case 3:25-cv-01414-EMC Document 272-13 Filed 03/11/26 Page 10 of 10
+ER-532
+Case: 26-2755, 07/27/2026, DktEntry: 30.4, (132 of 235)

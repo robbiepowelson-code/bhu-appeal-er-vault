@@ -1,0 +1,1776 @@
+---
+title: "Memorandum of P&A in Opposition to Berkeley Homeless Union’s Motion for Preliminary Injunction"
+type: Motion or Brief
+case: BHU
+case_full: "BHU v. City of Berkeley (3:25-cv-01414-EMC)"
+filed: 2025-05-30
+docket: "82"
+er_start: 1869
+er_end: 1897
+volume: 10
+cite: "10-ER-1869"
+filed_by: "Plaintiffs"
+tags: [ER, motion-or-brief, bhu]
+---
+
+# Memorandum of P&A in Opposition to Berkeley Homeless Union’s Motion for Preliminary Injunction
+
+**Motion or Brief** | BHU v. City of Berkeley (3:25-cv-01414-EMC) | Filed 2025-05-30 | Dkt. 82 | **ER 1869–1897** (Vol. 10)
+Record cite format: `10-ER-1869` … `10-ER-1897`
+
+## ER-1869
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Farimah Faiz Brown, City Attorney (State Bar No. 201227) 
+Laura Iris Mattes, Deputy City Attorney (State Bar No. 310594) 
+Nubyaan Scott, Deputy City Attorney (State Bar No. 331584) 
+Marc Shapp, Deputy City Attorney (State Bar No. 266805) 
+BERKELEY CITY ATTORNEY’S OFFICE
+2180 Milvia Street, Fourth Floor 
+Berkeley, CA 94704 
+Telephone: (510) 981-6997 
+Facsimile: (510) 981-6960 
+Email: MShapp@berkeleyca.gov
+LMattes@berkeleyca.gov
+NScott@berkeleyca.gov
+Attorneys for Defendant 
+CITY OF BERKELEY 
+UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+BERKELEY HOMELESS UNION 
+Plaintiff, 
+v.
+CITY OF BERKELEY, THOMAS 
+GREGORY, PAUL BUDDENHAGEN, 
+PETER RADU, OKEYA VANCE-DOZIER,
+DOES 1-10 
+Defendant. 
+Case No. 3:25-cv-01414-EMC
+MEMORANDUM OF POINTS AND 
+AUTHORITIES IN OPPOSITION TO 
+BERKELEY HOMELESS UNION’S 
+MOTION FOR PRELIMINARY 
+INJUNCTION 
+Judge: Hon. Edward M. Chen
+Respondent CITY OF BERKELEY (“City”) hereby submits its Opposition to Plaintiff 
+Berkeley Homeless Union’s Motion for Preliminary Injunction, ECF. No. 72. For the reasons set 
+forth below, the Court should deny the motion and decline to issue any injunction against the 
+City, any City officers, or City employees. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 1 of 29
+ER-1869
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (125 of 172)
+
+## ER-1870
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 i 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+TABLE OF CONTENTS
+I. INTRODUCTION ............................................................................................................... 1
+II. STATEMENT OF FACTS .................................................................................................. 2
+III. LEGAL STANDARD .......................................................................................................... 8
+IV. ARGUMENT ....................................................................................................................... 9
+A. BHU Does Not Demonstrate It Has Associational or Organizational
+Standing to Seek Injunctive Relief ........................................................................... 9
+B. Plaintiffs Cannot Succeed on the Merits. ............................................................... 14
+1. BHU Has Not Demonstrated a Likelihood of Prevailing on their
+ADA Claims. .............................................................................................. 14
+2. BHU is Not Exposed to a State Created Danger. ....................................... 17
+C. BHU Cannot Show a Risk of Irreparable Harm. ................................................... 22
+D. The Balance of the Equites and the Public Interest Disfavor this Injunction. ....... 23
+V. OBJECTIONS TO EVIDENCE ........................................................................................ 24
+A. Declaration of Yesica Prado................................................................................... 24
+B. Declaration of Gordon Gilmore (Miscaptioned as “Declaration of Trista
+Taylor”) .................................................................................................................. 25
+VI. CONCLUSION .................................................................................................................. 25
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 2 of 29
+ER-1870
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (126 of 172)
+
+## ER-1871
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 ii 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+TABLE OF AUTHORITIES
+CASES
+Amoco Prod. Co. v. Village of Gambell, AK, 480 U.S. 531 (1987) ............................................... 25 
+Angelotti Chiropractic, Inc. v. Baker, 791 F.3d 1075 (9th Cir. 2015) ............................................. 9 
+Arc of California v. Douglas, 757 F.3d 975, (9th Cir. 2014) ....................................................... 8, 9 
+Blaike v. El-Tawansy, No. 22-CV-04669-RS, 2022 WL 3692647, (N.D. Cal. Aug. 
+25, 2022) .................................................................................................................................. 18 
+Board of County Com’rs of Bryan County, Okl. v. Brown, 520 U.S. 397 (1997) .......................... 18 
+Brandr Grp., LLC v. Elec. Arts Inc., No. 23-CV-02994-HSG, 2023 WL 4297571, 
+(N.D. Cal. June 30, 2023) .......................................................................................................... 8 
+Carmen v. San Francisco Unified Sch. Dist., 237 F.3d 1026 (9th Cir. 2001) ............................... 25 
+Garcia v. City of Los Angeles, 11 F.4th 1113 (9th Cir. 2021) ......................................................... 8 
+Kennedy v. City of Ridgefield, 439 F.3d 1055 (9th Cir. 2006) ....................................................... 18 
+Matilla v. NorthWestern Company, No. CV 23-79-BU-SPW, 2025 WL 1042808 
+(D. Mont. Apr. 8, 2025) ........................................................................................................... 26 
+Mayfield v. City of Mesa, 131 F.4th 1100 (9th Cir. 2025) .............................................................. 15 
+Nken v. Holder, 556 U.S. 418 (2009) ............................................................................................... 9 
+Orr v. Bank of America, NT & SA (9th Cir. 2002) 285 F.3d 764 .................................................. 26 
+Prado v. City of Berkeley 2024 WL 3697037, No. 23-cv-04537-EMC (N.D. Cal. 
+Aug. 6, 2024) ........................................................................................................................... 15 
+Sacramento Homeless Union v. Cnty. of Sacramento, No. 2:22-CV-1095-TLNKJN, 2024 WL 2785378, (E.D. Cal. May 30, 2024) ............................................................... 18 
+Shen v. Albany Unified Sch. Dist., 436 F. Supp. 3d 1305 (N.D. Cal. 2020) .................................. 18 
+Stewart v. City & Cnty. of San Francisco, California, 608 F. Supp. 3d 902 (N.D. 
+Cal. 2022) ................................................................................................................................... 8 
+Townsend v. Quasim, 328 F.3d 511 (9th Cir. 2003) ....................................................................... 17 
+Travelers Cas. & Sur. Co. of America v. Telstar Const. Co., Inc., 252 F.Supp.2d 
+917 (D. Ariz. 2003) .................................................................................................................. 25 
+Where Do We Go Berkeley v. California Department of Transportation (“Where 
+Do We Go Berkeley”), 32 F.4th 852 (9th Cir. 2022) ................................................................ 15 
+Winter v. Nat. Res. Def. Council, Inc., 555 U.S. 7, (2008) ........................................................ 8, 25 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 3 of 29
+ER-1871
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (127 of 172)
+
+## ER-1872
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 iii 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+RULES
+Fed. R. Evid. 601-602, 701, 801-802 ............................................................................................. 25 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 4 of 29
+ER-1872
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (128 of 172)
+
+## ER-1873
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 1 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+I. INTRODUCTION
+The City of Berkeley, like many cities in the Bay Area, is tasked with addressing the
+complex issue of homelessness within its jurisdiction. The City has adopted a Housing First 
+approach which recognizes that people experiencing homelessness must first be able to access a 
+decent, safe place to live before stabilizing, improving health, reducing harmful behaviors or 
+increase income. In support of this mission, the City has dedicated significant staff and monetary 
+resources. The City maintains a Homeless Response Team which is a multi-departmental effort to 
+balance the needs and impacts of the people who live, work, or visit the area of a particular 
+encampment – including and especially the people living in that encampment. Berkeley voters 
+also approved an increase real estate tax which helps to fund the leasing of transitional housing 
+motels as well as creating permanent supporting sites within Berkeley. As a result, in the last two 
+years the City has seen a dramatic reduction in street homelessness. 
+Nevertheless, encampments continue to appear within the City despite fire, environmental 
+health, and nuisance hazards and ongoing exhaustive City staff efforts to offer shelter when 
+available and abate hazards. The City’s actions with regard to these encampments reflect the 
+City’s ongoing commitment to balance compassion for unhoused residents with the need to 
+maintain public health and safety. 
+In December 2024, the Berkeley City Manager ordered the abatement and closure of the 
+Harrison Corridor to further lodging. In an attempt to prevent this action, BHU has filed a 
+complaint requesting injunctive relief based on alleged violations of BHU members’ rights under 
+the Americans with Disabilities Act (“ADA”), California Government Code and the federal and 
+state constitution. However, BHU has not met their burden to demonstrate that a preliminary 
+injunction is warranted. 
+First, BHU cannot establish associational standing. BHU’s paper thin record does not 
+introduce testimony from any of its members supporting the basis of the organization’s standing 
+to pursue its claims. Neither does BHU present evidence of any interest at stake germane to its 
+purpose. Because no individual plaintiffs are included in its motion, BHU similarly fails to 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 5 of 29
+ER-1873
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (129 of 172)
+
+## ER-1874
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 2 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+demonstrate that the requested relief does not require the participation of individual members in 
+the suit 
+Second, BHU cannot demonstrate a likelihood of success on the merits of either their 
+ADA or state created danger claims. As to the ADA, BHU does not make the sufficiently 
+individualized showing that an accommodation was necessary to any BHU member nor does it 
+establish the existence of a reasonable accommodation that was denied. BHU likewise relies on 
+purely speculative dangers to support its state-created danger claims, that are not only 
+hypothetical they are factually incorrect. 
+Lastly, the balance of the equities favors the City. The City has allocated millions of 
+dollars and substantial staff time and other resources to the Harrison Corridor encampment, 
+including efforts to find residents temporary shelter and permanent housing, and to mitigate the 
+unsanitary and dangerous conditions that exist at the encampment. The City, the public at large, 
+and the residents of the Harrison Corridor all share a vital interest in ensuring that health and 
+safety nuisances are abated and general access to the public right of way is restored. 
+II. STATEMENT OF FACTS
+The encampments in and along Harrison Street and 8th Street in West Berkeley (the
+“Harrison Corridor”) have received more attention, from a services and intervention standpoint, 
+of any encampment in the City of Berkeley (the “City”). Radu Decl. ISO TRO Opposition (“Radu 
+1 Dec.”), Ex. A [[[ER 1918-2034 - Exhibit A – Memorandum from Peter Radu to Paul Buddenhagen Re Nuisance…|ECF No. 15-1]]]. Of the hundreds of shelter offers the City has made to 
+encampment residents, over one in five have been to people living in the Harrison Corridor. Id. In 
+2024, the City spent $5 million to fund a master lease at the Campus Motel on University 
+Aversity to operate it as a low barrier, 24/7, non-congregate shelter and dedicate it entirely to 
+people living in the Harrison Corridor. Id. The City has also provided a wide range of services to 
+Harrison Corridor residents including: 1) the placement of a dumpster on 8th Street with service 
+four times a week; 2) multiple port-a-potties with wash stations that are serviced regularly; 3) free 
+mobile shower and laundry service; 4) multiple targeted treatments by the City’s Environment 
+Health Decision of the extensive network of rodent burrows and the provision of numerous new 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 6 of 29
+ER-1874
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (130 of 172)
+
+## ER-1875
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 3 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+tents and sterility tubs to maintain cleaner and more rodent proof condition, etc. Id. However, despite this significant investment of money, time, and resources, dangerous 
+and inhumane conditions continue to persist in the Harrison Corridor. On December 6, 2024, the 
+City’s Neighborhood Services Division and Environmental Health Division conducted a site visit 
+at the Harrison Corridor. Radu 1 Dec., ¶ 5. The site visit revealed significant health and safety 
+hazards including loose and scattered syringes; rodent harborage conditions and evidence of 
+extensive and active rodent burrows; unmitigated human and animal waste; and open/rotting 
+sources of food. Id. The sidewalks and vehicular lanes of traffic were also obstructed by the 
+accumulation of personal belongings and debris in the area. Id. These findings were transmitted to 
+City Manager Paul Buddenhagen in a memorandum dated December 12, 2024. Id. In addition to 
+the significant public health concerns documented by the Environment Health Division, the 
+memorandum discusses the exceedingly high rate of calls for Berkeley Police and Fire services. 
+For example, police calls for service at the Harrison encampment in the one year period from 
+August 1, 2023-July 31, 2024 totaled 252—on average one call every day and a half. Calls for 
+Berkeley Fire service totaled 78 during that same time frame, with safety impacts for nearby 
+residents, workers, and detrimental impacts on business operations. Based on these documented 
+findings, on December 18, 2024, Berkeley City Manager Paul Buddenhagen ordered a full 
+closure of Harrison Corridor encampment. Id., ¶ 6. 
+On January 7, 2025, members of the City’s Homeless Response Team (“HRT”)—a multidepartmental group of City staff working together to address the needs of the unhoused 
+population in Berkeley—and Berkeley Police posted 50 copies of a Public Notice throughout the 
+Harrison Corridor. Declaration of Okeya Vance-Dozier ISO TRO Opposition ¶¶ 2, 3 (“VanceDozier 1 Dec.”) [[[ER 2036-2039 - Declaration of Okeya Vance-Dozier ISO of City of Berkeley’s Opposition…|ECF No. 13]]]. The Public Notice informed encampment residents of the 
+December 6, 2024 findings of significant health and safety hazards and the sidewalk and street 
+obstructions, and ordered encampment residents to abate the nuisances by February 10, 2025. Id., Ex A., p. 1 [[[ER 2040-2047 - Exhibit A - Public Notice|ECF No. 13-1]]]. The Public Notice included a Fact Sheet that states in simple terms: 
+The area has been declared a health hazard by the City’s Health, Housing and
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 7 of 29
+ER-1875
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (131 of 172)
+
+## ER-1876
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 4
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Community Services Department and a Public Nuisance by the City Manager’s 
+Office. For these reasons, the City Manager ordered the encampment to be 
+closed on December 18, 2025 [sic]. 
+You have until February 10, 2025 to find another location for yourself and 
+your belongings. By or before this date, you must leave the encampment and 
+take anything of value with you. The City may come to clean up and 
+permanently close this encampment at any time after February 10, 2025 
+without further notice. 
+You have until February 10, 2025 to ensure your vehicle is in working order 
+and properly licensed and registered or remove it from the closure area. The 
+City will be enforcing against illegally parked vehicles in this area on or after 
+February 10, 2025. After that date, remaining vehicles may be subject to tow 
+and impounding. 
+On February 10, 2025, this area will be declared a No Lodging and No 
+Property area. Anyone remaining in this area after that date will be subject to 
+citation or arrest and any personal property will be subject to immediate 
+removal by the City. 
+Id., Ex. A, p. 6 [[[ER 2040-2047 - Exhibit A - Public Notice|ECF No. 13-1]] at 6]. Both the Public Notice and the Fact Sheet informed 
+encampment residents of the City’s property storage service, how to seek ADA accommodations, 
+and how to lodge an appeal of the hazard declaration. Id., Ex. A, pp. 1, 4, 6-7 [[[ER 2040-2047 - Exhibit A - Public Notice|ECF No. 13-1]] at 1, 
+4, 6-7]. 
+The Public Notice also noted that the City’s primary goal is the end of unsheltered 
+homelessness by connecting those living in this encampment to interim and permanent housing. 
+Ex. A, pp. 7-8 [[[ER 2040-2047 - Exhibit A - Public Notice|ECF No. 13-1]] at 7-8]. It explained that the City does not control access or 
+referrals to permanent supportive housings, even for those located with the City, but that the City 
+staff could help connect individuals who were interested in this service. Id. The notice informed 
+individuals that a limited number of shelter beds were available and provided contact information 
+on how to access those services. Id. In other words, all encampment residents were given 
+information regarding potential shelter options on January 7, 2025 and were encouraged to access 
+those services separate and apart from any ADA related accommodations. 
+On January 14, 2025, the City held a community information event regarding a new 
+interim housing program being offered by the City. Declaration of Thomas Gregory, filed ISO 
+TRO Opposition (“Gregory 1 Decl.”), ¶ 4 [ ECF No. 14]. Among others, ADA Program 
+Coordinator Thomas Gregory spoke at the event on behalf of the City. Id. Mr. Gregory informed 
+those present of their right to seek an ADA accommodation and offered dozens of copies of his 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 8 of 29
+ER-1876
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (132 of 172)
+
+## ER-1877
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 5
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+business card and encouraged individuals to contact him with any requests. Id. On January 22, 2025, the City’s Administrative Hearing Examiner held a hearing on 
+encampment residents’ appeal of the City Manager’s nuisance declaration and order to abate the 
+nuisance. Vance-Dozier 1 Decl., ¶ 5 [[[ER 2036-2039 - Declaration of Okeya Vance-Dozier ISO of City of Berkeley’s Opposition…|ECF No. 13]]]. The purpose of the hearing was not to 
+adjudicate ADA accommodation requests from the Harrison Corridor residents, but instead was 
+limited to considering the public’s objections and complaints regarding the City Manager’s public 
+health nuisance declaration and order to abate the encampment. Vance-Dozier 1 Decl., Ex. C
+[[[ER 2050-2061 - Exhibit C – Second Public Notice|ECF No. 13-3]]]. Based on the documents in the record and the testimony during the hearing, on 
+January 29, 2025, the City’s Administrative Hearing Officer issued a ruling overruling the 
+appellants objections and affirming the City’s ability to conduct a nuisance abatement. Id., ¶ 6, 
+Ex. C, pp. 9-12 [ECF Nos. 13 and 13-3 at 9-12]. The decision addressed arguments by Harrison 
+Corridor residents including that the public health circumstances, such as the rat burrowing, 
+should be dealt with differently. Id. However, because the Harrison Corridor is also littered with 
+exposed syringes and human waste, it is dangerous to travel into the small spaces needed to 
+access rodent burrows. Id. In addition, the litter and debris are so condensed that wiggling in the 
+tight spaces could compromise the equipment needed for rodent control. Id. Furthermore, the vast 
+amounts of debris, food waste, and feces at the encampment serve as a sustenance for the rats and 
+therefore, the location needs to be deeply cleaned in order to abate the infestation. Id. On January 31, 2025, HRT members posted 50 copies of a Second Public Notice 
+throughout the Harrison Corridor. Vance-Dozier 1 Decl., ¶7 [[[ER 2036-2039 - Declaration of Okeya Vance-Dozier ISO of City of Berkeley’s Opposition…|ECF No. 13]]]. The Second Public 
+Notice included a copy of the January 29, 2025 decision of the City’s Administrative Hearing 
+Officer, after the Fact Sheet and the information on requesting interim or permanent housing. Id., Ex. C [[[ER 2050-2061 - Exhibit C – Second Public Notice|ECF No. 13-3]] at 9-12]. 
+ Following the posting of the Second Notice, the City received multiple requests from 
+encampment residents regarding ADA accommodations. The City responded promptly and 
+judiciously to each accommodation request. The City continued to consider ADA accommodation 
+requests even several months after notice of the closure had been provided. For example, on April 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 9 of 29
+ER-1877
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (133 of 172)
+
+## ER-1878
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 6 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+25, 2025, Ms. Prado wrote to the City on behalf of three encampment residents, Eric Keiser, 
+Shareef Muwakkil, and Austin White. Declaration of Thomas Gregory (“Gregory Declaration”), 
+submitted herein, ¶¶ 5-7, Exhibits A-C. All three alleged to have various mental conditions, in 
+addition to physical ones, that affected their ability to comply with the City’s abatement order. Id. Similarly, all requested multiple accommodations including the ability to remain in place at the 
+Harrison Corridor or be placed in a non-congregate shelters. Id. In response, the City accepted 
+that the various conditions they alleged to have were disabilities and required no further 
+documentation of those disabilities. Id. However, the City requested documentation reflecting the 
+nexus between their disabilities and the requested accommodation. To the extent there existed 
+accommodations that could be readily provided, such as packing assistance or storage, the City 
+offered it at the outset. Id. The City thereafter received no response from Ms. Prado regarding Mr. 
+Keiser, Mr. Muwakkil, or Mr. White. Id. On April 22, 2025, staff from the City’s Environmental Health Division conducted a 
+further health and safety inspection of the conditions in the Harrison Corridor. Declaration of 
+Ronald Torres, (“Torres Dec.”), ¶ 5 [ECF No. 56-3]. During the inspection, Environmental 
+Health staff observed multiple violations of the Berkeley Municipal Code due to rodent 
+harborage, rotting food, feces, accumulations of garbage and debris, and scattered used 
+syringes. Id. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 10 of 29
+ER-1878
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (134 of 172)
+
+## ER-1879
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 7 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 11 of 29
+ER-1879
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (135 of 172)
+
+## ER-1880
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 8 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+ Upon reviewing the report by his staff, Mr. Torres concluded “the conditions in the 
+Harrison Corridor constitute an imminent hazard, including findings of used syringes, raw 
+sewage, feces near sewer drains, and a proliferation of rat burrows.” Id. ¶ 8. Mr. Torres further 
+concluded, “Based on the findings of the April 22, 2025 Health and Safety inspection report, it 
+does not appear that the serious health and safety concerns observed in December 2024 have 
+improved.” Id. ¶ 9. 
+III. LEGAL STANDARD 
+“The standard for issuing a temporary restraining order and issuing a preliminary 
+injunction are substantially identical.” Brandr Grp., LLC v. Elec. Arts Inc., No. 23-CV-02994-
+HSG, 2023 WL 4297571, at *2 (N.D. Cal. June 30, 2023). An injunction “is an extraordinary 
+remedy never awarded as of right.” Winter v. Nat. Res. Def. Council, Inc., 555 U.S. 7, 24 (2008). 
+A plaintiff seeking an injunction “must establish that he is likely to succeed on the merits, that he 
+is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of equities 
+tips in his favor, and that an injunction is in the public interest.” Id. at 20. “The first factor is the 
+‘most important.’” Garcia v. City of Los Angeles, 11 F.4th 1113, 1118 (9th Cir. 2021). “To 
+establish a likelihood of success, plaintiffs need not conclusively prove their case or show that 
+they are ‘more likely than not’ to prevail.” Stewart v. City & Cnty. of San Francisco, California, 608 F. Supp. 3d 902, 911 (N.D. Cal. 2022). “Rather, a ‘fair chance’ of success is the standard for 
+granting preliminary injunctive relief.” Id. Post-Winter, a complaint’s allegation of a plausible 
+claim does not suffice to satisfy the success-on-the-merits element necessary for a preliminary 
+injunction. Arc of California v. Douglas, 757 F.3d 975, 993-94 (9th Cir. 2014); see also Angelotti 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 12 of 29
+ER-1880
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (136 of 172)
+
+## ER-1881
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 9 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Chiropractic, Inc. v. Baker, 791 F.3d 1075, 1087 (9th Cir. 2015). “The irreducible minimum [for 
+a preliminary injunction] ... is that the moving party demonstrate a fair chance of success on the 
+merits or questions serious enough to require litigation. No chance of success at all will not 
+suffice.”’ Arc of California, 757 F.3d 975 at 994. As the Supreme Court explained, “[i]t is not 
+enough that the chance of success on the merits be ‘better than negligible.’ [Citation.] Even 
+Plaintiff acknowledges that ‘[m]ore than a mere “possibility” of relief is required.”’ Nken v. 
+Holder, 556 U.S. 418, 434 (2009). 
+IV. ARGUMENT 
+A. BHU Does Not Demonstrate It Has Associational or Organizational 
+Standing to Seek Injunctive Relief 
+Organizations like BHU “may sue only if they can establish either organizational standing 
+or associational (or representational) standing.” Emanuel Displaced Person Association 2 v. City 
+of Portland, 704 F.Supp.3d 1088, 1102 (D. Or. 2003); see also Am. Unites for Kids v. Rousseau, 985 F.3d 1075, 1096 (9th Cir. 2021) (“An association or organization can sue based on injuries to 
+itself or to its members.”). Organizational standing turns on whether an organization itself has 
+suffered an injury in fact. Smith, 358 F.3d at 1101. By contrast, associational standing exists 
+when an organization acts as a representative of members who have been injured in fact and thus 
+could have sued on their own. Simon v. E. Ky. Welfare Rts. Org., 426 U.S. 26, 40 (1976). “The 
+party invoking federal jurisdiction bears the burden of demonstrating standing.” Coalition on 
+Homelessness v. City and County of San Francisco (“Coalition”), 758 F.Supp.3d 1102, 1121 
+(N.D. Cal. 2024) (citing TransUnion LLC v. Ramirez, 594 U.S. 413, 430-31 (2021)). “[S]tanding 
+is not dispensed in gross; rather, plaintiffs must demonstrate standing for each claim that they 
+press and for each form of relief that they seek (for example, injunctive relief and damages).” 
+Ramirez, 594 U.S. at 431; see also Rattlesnake Coal. v. U.S. E.P.A., 509 F.3d 1095, 1102 n.1 (9th 
+Cir. 2007) (“Once challenged, the party asserting subject matter jurisdiction has the burden of 
+proving its existence.”). 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 13 of 29
+ER-1881
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (137 of 172)
+
+## ER-1882
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 10
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Here, of the four original Plaintiffs only BHU has made a last-ditch effort to file a 
+renewed motion for a preliminary injunction. Two of the Plaintiffs—Bouchard and Johnson—
+have settled their claims with the City. And Moore has not joined BHU’s motion or separately 
+moved for a preliminary injunction. Therefore, BHU may only obtain injunctive relief if it can 
+demonstrate it has associational standing to sue on behalf of its members or organizational 
+standing to sue for injuries it has suffered. It makes neither showing. 
+i. BHU Does Not Establish Associational Standing 
+ “An entity possesses standing to sue on its members’ behalf when it can satisfy the 
+following three elements: (1) that its members otherwise would have standing to sue in their own 
+right, (2) that the interests at stake prove germane to the entity’s purpose, and (3) that neither the 
+claim asserted nor the relief requested requires the participation of the individual members in the 
+suit.” Imperial Sovereign Court v. Knudsen, 699 F.Supp.3d 1018, 1034 (D. Mont. 2023) (citing 
+Hunt v. Wash. State Apple Advert. Comm’n, 432 U.S. 333, 343 (1977)). Under the first prong of 
+this test, an associational plaintiff “must show that a member suffers an injury-in-fact that is 
+traceable to the defendant and likely to be redressed by a favorable decision.” Associated Gen. 
+Contractors of Am., San Diego Chapter, Inc. v. Cal. Dep’t of Transp., 713 F.3d 1187, 1194 (9th 
+Cir. 2013). And to prevail on the third prong, the association must demonstrate that “neither the 
+claim asserted nor the relief requested requires the participation of individual members in the 
+lawsuit.” Hunt v. Wash. State Apple Advert. Comm’n, 432 U.S. 333, 343 (1977). If “an 
+association can satisfy these requirements, [a court will] allow the association to pursue its 
+members’ claims, without joining those members as parties to the suit.” Id. BHU meets none of these elements. As to the first prong, BHU fails to establish its 
+members have standing to pursue the organization’s ADA and related claims. Tellingly, BHU 
+introduces no testimony from any of its members in support of its threadbare motion. This 
+omission alone precludes BHU from obtaining injunctive relief. See Assoc. Gen. Contractors v. 
+Cal. Dep’t of Transp., 713 F.3d 1187, 1194-95 (9th Cir. 2013) (finding an organization failed to 
+demonstrate associational standing because it “d[id] not identify any affected members by name 
+nor [did] it submit[] declarations by any of its members attesting to harm they have suffered or 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 14 of 29
+ER-1882
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (138 of 172)
+
+## ER-1883
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 11
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+will suffer” under the defendant’s challenged program). BHU provides a declaration from a 
+single BHU representative, Yesica Prado, in which Prado asserts she has “submitted over 21 
+formal requests for reasonable accommodations under the Americans with Disabilities Act (ADA) 
+to the City of Berkeley on behalf of BHU members residing at the 8th and Harrison encampment” 
+since late 2023. ECF 72-2, p. 1 of 4, ¶ 2. Prado maintains the City “has refused to meet within 
+me [sic] with BHU members on any of these requests—except perhaps Adrien Bouchard and 
+Nicholas Johnsons.”1
+ Id. But apart from these and other conclusory assertions, BHU offers no 
+evidence these members are “qualified individual[s] with a disability” and that the City denied 
+them or threatened to deny them the benefits of any public services, programs, or activities based 
+on their disability—the showing BHU’s members would need to make to state a claim under Title 
+II of the ADA. 42 U.S.C. § 12132; McGary v. City of Portland, 386 F.3d 1259, 1265 (9th Cir. 
+2004). BHU likewise does not show the City acted with deliberate indifference, an essential 
+element of its state-created danger claim. See Martinez v. City of Clovis, 943 F.3d 1260, 1274 
+(9th Cir. 2019) (“Under the state-created danger test, [the plaintiff] must finally show that the 
+officers acted “with ‘deliberate indifference’ to a ‘known or obvious danger.’ This is ‘a stringent 
+standard of fault, requiring proof that a municipal actor disregarded a known or obvious 
+consequence of his action.’”) (internal citations omitted). Nor does BHU demonstrate the City 
+violated or threatened to violate its members’ constitutional rights. 
+Similarly, BHU makes no effort to satisfy the second and third requirements of 
+associational standing. As to the second prong, it presents no evidence of any interest at stake 
+germane to its purpose—BHU does not identify its purpose in its moving papers nor does it argue 
+that “neither the claim[s] asserted nor the relief requested requires the participation of [its] 
+individual members in the lawsuit”—and it certainly makes no showing to this effect. See, e.g., 
+ 1 BHU submits a second declaration in support of its motion, captioned “Declaration of Trista 
+Taylor in Support of TRO and PI.” But curiously, the declaration is not signed by Trista Taylor; 
+rather, the declarant identifies himself as “Gordon Gilmore.” BHU only cites this declaration 
+once in its motion, in support of its assertion that it has led cleanup efforts at the Harrison 
+encampment. Motion, 7:20-21. The declaration does not specify Gilmore’s relationship to BHU 
+and otherwise lacks any foundation. Nor is Gilmore’s testimony material in any way to BHU’s 
+claims.
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 15 of 29
+ER-1883
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (139 of 172)
+
+## ER-1884
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 12
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Cahto Tribe of Laytonville Rancheria v. Risling, No. 2:10–cv–01306–GEB–GGH, 2010 WL 
+4721060 at *2 (E.D. Cal. Nov. 12, 2010) (“Movants also argue in their reply brief that Defendants 
+do not adequately represent their interests because it is unclear whether they will challenge the 
+court’s subject matter jurisdiction under 28 U.S.C. § 1362. This argument is waived since it was 
+not made in the moving papers.”); Zamani v. Carnes, 491 F.3d 990, 997 (9th Cir.2007) (“The 
+district court need not consider arguments raised for the first time in a reply brief.”). 
+Lastly, BHU fails to satisfy the third prong to demonstrate that the relief does not require 
+the participation of individual members in the suit. As an initial matter, BHU does not provide 
+evidence that its members authorized Yesica Prado to engage in interactive process discussions 
+with the City on their behalf or otherwise represent their interests. See Am. Unites for Kids v. 
+Rousseau, 985 F.3d 1075, 1098 (9th Cir. 2021) (an organization claiming associational standing 
+must be “sufficiently identified with and subject to the influence of those it seeks to represent as 
+to have a ‘personal stake in the outcome of the controversy’”). Furthermore, like the plaintiff in 
+Coalition, BHU does not identify the individualized needs of its members. “[O]n receiving a 
+request for accommodation,” a public entity “is required to undertake a fact-specific investigation 
+to determine what constitutes a reasonable accommodation.” Duvall v. County of Kitsap, 260 
+F.3d 1124, 1139. But when an association’s “claims require an ‘ad hoc factual inquiry’ for each 
+member represented by the association, the organization does not have associational standing.” 
+See City of South Lake Tahoe Retirees Association v. City of South Lake Tahoe, No. 2:15–cv–
+02502–KJM–CKD, 2017 WL 2779013 at *3 (E.D. Cal. June 27, 2017) (citing Association of 
+Christian Schools Intern. v. Stearns, 678 F.Supp.2d 980, 986 (C.D. Cal. 2008)). Thus, “the 
+individualized exercise needed to determine whether each” of BHU’s members was “denied the 
+benefit of . . . [a] reasonable accommodation,” particular to each member’s disability and needs, 
+precludes BHU from demonstrating associational standing here. Bloom v. City of San Diego, No. 
+3:17-cv-02324-AJB-MSB, 2021 WL 8053533 at *11 (S.D. Cal. June 8, 2021) (“And, whether the 
+City denied reasonable accommodation to Plaintiffs is not a contention capable of classwide 
+resolution because, as discovery reveals, many class members seek widely varied 
+accommodations.”). Similarly, the court observed the Coalition failed to allege any of its 
+members “experienced a foreseeable injury due to a state-created danger,” such that they “would 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 16 of 29
+ER-1884
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (140 of 172)
+
+## ER-1885
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 13
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+have standing to [bring a state-created danger claim] in their own right.” Id. at 1127. The same is 
+true for BHU here. 
+ Because BHU makes virtually no attempt to carry its burden, the Court should deny its 
+motion. See Citizens for Quality Education San Diego v. Barrera, 333 F.Supp.3d 1003, 1031 fn. 
+20 (S.D. Cal. 2018) (on a motion for preliminary injunction, “[i]t is not the Court’s duty to make 
+legal arguments for Plaintiffs that they do not raise and the Court will not do so”); Lujan v. 
+Defenders of Wildlife, 504 U.S. 555, 561 (1992) (each element of standing “must be supported in 
+the same way as any other matter on which the plaintiff bears the burden of proof, i.e., with the 
+manner and degree of evidence required at the successive stages of the litigation”). ii. BHU Fails to Establish Organizational Standing
+“To determine whether organizational standing requirements have been satisfied, [courts] 
+‘conduct the same inquiry as in the case of an individual: Has the plaintiff ‘alleged such a 
+personal stake in the outcome of the controversy as to warrant his invocation of federal-court 
+jurisdiction?’” East Bay Sanctuary Covenant v. Biden, 993 F.3d 640, 662 (9th Cir. 2021) (quoting 
+Havens Realty Corp. v. Coleman, 455 U.S. 363, 378-79 (1982)). Organizations “therefore have 
+the burden of demonstrating that (1) they have suffered an injury-in-fact, meaning an injury that 
+is ‘concrete and particularized’ and ‘actual and imminent,’ (2) the alleged injury is ‘fairly 
+traceable’ to the defendants’ conduct, and (3) it is ‘more than speculative’ that the injury is 
+judicially redressable.” Id. (quoting Lujan, 504 U.S. at 560-61). 
+Until last year, “an organization suing on its own behalf [could] establish an injury when it 
+suffered ‘both a diversion of its resources and a frustration of its mission.’” La Asociacion de 
+Trabajadores de Lake Forest v. City of Lake Forest (2010) 624 F.3d 1083, 1088 (9th Cir. 2010) 
+(quoting Fair Housing of Marin v. Combs, 285 F.3d 899, 905 (9th Cir. 2002)); see also Friends of 
+the Earth v. Sanderson Farms, Inc., 992 F.3d 939, 942 (9th Cir. 2021) (“Organizations divert 
+resources when they ‘alter[ ] their resource allocation to combat the challenged practices,’ but not 
+when they go about their ‘business as usual.’ [Citation.]”) But “[t]his type of injury is no longer 
+sufficient to establish organizational standing because the Supreme Court recently rejected the 
+‘frustration-of-mission and diversion-of-resources theories.’” Coalition, 758 F.Supp.3d at 1128 
+(citing Food & Drug Admin. v. All. for Hippocratic Med., 602 U.S. 367, 394 (2024)). “[A]n 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 17 of 29
+ER-1885
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (141 of 172)
+
+## ER-1886
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 14 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+organization that has not suffered a concrete injury caused by a defendant’s action cannot spend 
+its way into standing simply by expending money to gather information and advocate against the 
+defendant’s action. An organization cannot manufacture its own standing in that way.” 
+Hippocratic Medicine, 602 U.S. at 394. “A plaintiff must show ‘far more than simply a setback 
+to the organization’s abstract social interests.’” Id. (citing Havens, 455 U.S. at 379). An 
+organization may now only assert standing when a challenged policy “directly affect[s] and 
+interfere[s] with [its existing] core business activities.” Id. at 395. 
+Although BHU does not demonstrate it had to redirect any resources because of the City’s 
+conduct—and so could not prevail on a diversion-of-resources theory, even if that theory was no 
+longer obsolete—it certainly does not meet the higher bar set for organizational standing 
+following Hippocratic Med. In its complaint, BHU describes itself as “a membership 
+organization advocating for the rights of unhoused individuals in Berkeley, including disabled 
+individuals who have been denied reasonable accommodations.” Comp., ¶ 16, 4:11-14. But it 
+does not allege or show it has suffered or will suffer any cognizable injury as an organization. In 
+her declaration, Prado contends the City “refus[ed] to even meet with BHU members about their 
+disabilities and ways to mitigate foreseeable dangers puts our members at risk.” ECF No. 72-2, p. 
+3 of 4, ¶ 6. But neither the Prado declaration nor the Gilmore declaration addresses whether the 
+City’s cleanup operations will interfere with or otherwise impact BHU’s core business activities. 
+BHU does not even identify its core business activities. 
+As such, BHU lacks organizational standing to pursue its claims. See Coalition, 758 
+F.Supp. at 1129 (the plaintiff’s allegations fell “short of establishing organizational standing” 
+because the Coalition “d[id] not dispute that its expenditure of funds to replace tents and survival 
+belongings [wa]s a direct response to the City’s actions” rather than an infringement on its preexisting core activities). 
+B. Plaintiffs Cannot Succeed on the Merits. 
+1. BHU Has Not Demonstrated a Likelihood of Prevailing on their 
+ADA Claims. 
+BHU has not met its burden to put forth sufficient evidence to demonstrate a likelihood of 
+success on the merits of its ADA claims. A plaintiff asserting a reasonable accommodation claim 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 18 of 29
+ER-1886
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (142 of 172)
+
+## ER-1887
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 15 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+under Title II “bears the initial burden of producing evidence of the existence of a reasonable 
+accommodation that was denied or not provided.” Mayfield v. City of Mesa, 131 F.4th 1100, 1110 
+(9th Cir. 2025) (citations omitted). “If the plaintiff carries this burden, the defendant may 
+nonetheless defeat the claim by showing that the plaintiff’s proposed accommodation would 
+cause an ‘undue burden.’” Id. (citation omitted). Although, Title II requires public entities to 
+“make reasonable modifications in policies, practices, or procedures when the modifications are 
+necessary to avoid discrimination on the basis of disability,” a modification is not necessary if it 
+would fundamentally alter the nature of the service. Prado v. City of Berkeley 2024 WL 3697037, 
+*20, No. 23-cv-04537-EMC (N.D. Cal. Aug. 6, 2024). “For programs designed to address risks to 
+the public, reasonableness depends on the nature of the risk, whether the proposed modification 
+would affect the agency’s ability to address the risk, and the probability of worsening the risk if 
+the agency is forced to alter its programs.” Where Do We Go Berkeley v. California Department of 
+Transportation (“Where Do We Go Berkeley”), 32 F.4th 852, 862 (9th Cir. 2022). A court must 
+also “take into account financial and other logistical limitations on [the program].” Id.
+First, a reasonable accommodation claim must be “based on an individualized request or 
+need.” Payan v. Los Angeles Comy. Coll. Dist., 11 F.4th 729, 738 (9th Cir, 2021) (emphasis 
+added) (quoting Duvall v. County of Kitsap, 260 F.3d 1124, 1135 (9th Cir. 2001)). BHU cannot 
+assert a blanket claim that all BHU members must receive an accommodation but rather, it is their 
+burden to seek and provide evidence of “the existence of a reasonable accommodation that was 
+denied or not provided” for each individual who seeks accommodations. Mayfield v. City of 
+Mesa, 131 F.4th 1100, 1110 (9th Cir. 2025) (citations omitted). Here, Prado’s declaration does 
+not name the members on whose behalf BHU purportedly submitted requests nor provide any 
+declarations or documentation to support her attestation that there “at least 19 ADA requests 
+outstanding.” Prado Decl. ¶ 2. BHU also does not establish how many of their members are 
+disabled. It does not appear that BHU is primarily composed of disabled individuals, and 
+therefore to the extent BHU claims to represent non-disabled residents they would not have 
+standing to pursue ADA claims. As such, BHU fails to adequately establish a sufficiently 
+individualized basis to support an ADA claim. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 19 of 29
+ER-1887
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (143 of 172)
+
+## ER-1888
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 16 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Second, Title II of the ADA requires “a plaintiff [to] show that a public entity failed to 
+make reasonable modifications that would accommodate plaintiff’s disability without 
+fundamentally altering the nature of program or activity.” Selene v. Legislature of Idaho, 514 F. 
+Supp. 3d 1243, 1256 (D. Idaho 2021). “Importantly, the ADA does not require an accommodation 
+that an individual requests or prefers; instead, the ADA requires only a reasonable 
+accommodation.” Id. And even if the plaintiff can make the requisite showing, the defendant 
+may nonetheless defeat the claim by showing that the plaintiff’s proposed accommodation would 
+cause “undue financial and administrative burdens” on the public entity. Updike v. Multnomah 
+Cnty., 870 F.3d 939, 950 (9th Cir. 2017). Again, BHU puts forth no evidence to demonstrate that 
+the City failed to provide a reasonable accommodation.2 Had it done so, the City’s compliance 
+with the ADA would have been clear. 
+For example, the accommodation requests submitted on behalf of Mr. Muwakkil, Mr. 
+White, and Mr. Keiser, purported BHU members, in April 2025 do not qualify as reasonable 
+accommodations because they would either fundamentally alter the nature of the City’s abatement 
+activity or fall outside the scope of services the City is required to provide. Gregory Decl. ¶¶5-7, 
+Exhibits A-C. All three have requested either permission to remain at the Harrison Corridor or 
+placement in shelter as a form of accommodation.3
+Id. However, requests to occupy public land 
+for an indefinite period of time would not “reasonably modify” the City’s abatement activity but 
+instead would fundamentally alter the purpose of that activity—allowing the City to abate 
+significant public health hazards. See Where Do We Go Berkeley v. Cal. Dep’t of Transp., 32 F.4th 
+852, 862 (9th Cir. 2022).4
+2 BHU should not be able to submit new evidence or raise new arguments in its reply brief. 
+“Reply briefs are for replying, not raising new arguments or arguments that could have been 
+advanced in the opening brief.” Gerlach v. Rokita, No. 1:22-CV-00072-TWP-MG, 2023 WL 
+2683132, at *3 (S.D. Ind. Mar. 29, 2023), aff’d, 95 F.4th 493 (7th Cir. 2024), cert. denied, 145 S. 
+Ct. 1044, 220 L. Ed. 2d 378 (2025). In the event that BHU attempts to circumvent that limitation, 
+the City requests the ability to file a surreply. 3 Contrary to BHU’s assertions that they have requested in person meetings and the ability to 
+record the City has refused, none of these individuals requested the ability to record the meetings 
+and the City has not refuse to meet with them. In fact, BHU terminated the process by declining 
+to engage further after receiving the City’s initial response. 4
+ The City appropriately requested documentation from a qualified professional in response to the 
+reasonable accommodation requests submitted on behalf of Mr. White, Mr. Muwakkil, and Mr. 
+Keiser, each of whom claimed that disability-related limitations rendered them incapable of 
+relocating from the Harrison encampment. These requests lacked verification from qualified 
+experts regarding the nature of the individuals’ impairments, the extent of their limitations, and 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 20 of 29
+ER-1888
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (144 of 172)
+
+## ER-1889
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 17
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+Similarly, BHU could not show that requests for comprehensive relocation support such as 
+“executive functioning assistance,” peer support workers, or prescheduled low-stimulation 
+meetings with a consistent liaison are accommodations the City is obligated to provide under Title 
+II of the ADA. The City does not operate programs that offer individualized relocation planning 
+or disability advocates, and the ADA does not compel the City to create new programs or staff. 
+Townsend v. Quasim, 328 F.3d 511, 518 (9th Cir. 2003) (“[P]ublic entities are not required to 
+create new programs that provide heretofore unprovided services to assist disabled persons”.) 
+Where appropriate, the City has referred individuals to community resources such as the Center 
+for Independent Living which is better positioned to offer such assistance. 
+On the other hand, the City has offered physical assistance with packing and lifting 
+belongings, and a pre-scheduled storage service—specific, feasible forms of support that align 
+with the City’s available resources and the ADA’s requirements. The City’s ADA Coordinator has
+also continued to refer Plaintiffs to the HRT and has included their staff on interactive process 
+communications. This correspondence demonstrates the City’s good-faith engagement in the 
+interactive process and its willingness to implement reasonable modifications that do not 
+undermine the nature of the abatement effort. 
+For these reasons, BHU cannot prove a likelihood of prevailing on their ADA claims. 
+2. BHU is Not Exposed to a State Created Danger. 
+The Ninth Circuit recognizes liability based on a state-created danger only where a state or 
+local official acts to place a person in a situation of known danger with deliberate indifference to 
+ the necessity of the specific accommodations sought—particularly the request to remain in place. 
+Under established Ninth Circuit precedent, a public entity has an affirmative duty to “gather 
+sufficient information from the disabled individual and qualified experts as needed to determine 
+what accommodations are necessary.” Duvall v. County of Kitsap, 260 F.3d 1124, 1136–37 (9th 
+Cir. 2001) (quoting Wong v. Regents of Univ. of Cal., 192 F.3d 807, 818 (9th Cir. 1999)). This 
+duty encompasses the obligation to seek additional information before issuing a denial, where an 
+accommodation may be warranted but the appropriate form is unclear. Id. Because the 
+accommodations requested here would have effectively exempted the individuals from 
+relocation—a substantial constraint on the City’s need to abate hazardous conditions—it was both 
+reasonable and legally proper for the City to request documentation substantiating their disabilityrelated limitations and the nexus between those limitations and the requested accommodations. 
+Not only is the City entitled to make this determination, it is BHU’s burden prove it. See Volis v. 
+HACLA Employees, No. CV 13–01397 MMM (SPx), 2014 WL 12677316, at *4 (C.D. Cal. May 
+29, 2014) (“A disabled person requesting an accommodation under the ADA or Rehabilitation Act 
+must show that the accommodation sought is reasonably related to his qualifying disability.”).
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 21 of 29
+ER-1889
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (145 of 172)
+
+## ER-1890
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 18 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+their personal or physical safety. Kennedy v. City of Ridgefield, 439 F.3d 1055, 1061-62 (9th Cir. 
+2006). “‘[D]eliberate indifference’ is a stringent standard of fault, requiring proof that a municipal 
+actor disregarded a known or obvious consequence of his action. Board of County Com’rs of 
+Bryan County, Okl. v. Brown, 520 U.S. 397, 410 (1997). “In examining whether [the city] 
+affirmatively places an individual in danger, [a court does] not look solely to the agency of the 
+individual, nor [does it rest its] opinion on what options may or may not have been available to 
+the individual. Instead, [the court must] examine whether [the city] left the person in a situation 
+that was more dangerous than the one in which they found [them].” Kennedy, 439 F.3d at 1062 .5
+The affirmative act must have exposed the plaintiff to ‘an actual, particularized danger,’ and the 
+resulting harm must have been foreseeable.” Pauluk v. Savage, 836 F.3d 1117, 1125 (9th Cir. 
+2016) (internal citations omitted). Speculative dangers, as the ones relied upon in Prado’s 
+declaration, are insufficient to establish a state-created danger. See Cobine v. City of Eureka, 250 
+F.Supp. 3d 423, 433 (N.D. Cal. 2017) (“[I]n the absence of particular allegations that the state 
+action put the Plaintiffs in an inherently dangerous situation, the Court is bound to find that the 
+generalized dangers of living on the street preexisted Plaintiffs’ relocation.”). 
+Here, BHU fails to establish a likelihood of prevailing on its state-created danger claim. It 
+offers no evidence of any affirmative action the City has taken or intends to take that has “created 
+or exposed” or will create or expose BHU or its members “to an actual, particularized danger that 
+[they] would not otherwise have faced.” In its motion, BHU argues the City plans to permanently 
+close Eighth and Harrison without engaging in the interactive process or mitigate harm. Mot. 3:2-
+4. In support of this contention, Prado ambiguously avers the “language he [the City’s ADA 
+Coordinator] used on April 29—indicating that the City will proceed with enforcement if the 
+TRO is lifted—while refusing to even meet with BHU members about their disabilities and ways 
+5 Plaintiffs assert a claim for state-created danger pursuant to article I, section 7 of the California 
+Constitution. ECF. No. 1 ¶¶ 57-60; ECF. No. 43 at 19. Neither the courts of California nor the 
+federal courts have recognized a state-created danger claim arising under the California 
+Constitution. See Sacramento Homeless Union v. Cnty. of Sacramento, No. 2:22-CV-1095-TLNKJN, 2024 WL 2785378, at *3 (E.D. Cal. May 30, 2024); Blaike v. El-Tawansy, No. 22-CV04669-RS, 2022 WL 3692647, at *2 (N.D. Cal. Aug. 25, 2022); Shen v. Albany Unified Sch. 
+Dist., 436 F. Supp. 3d 1305, 1315 (N.D. Cal. 2020). “[I]t is emphatically not the role of this 
+federal court to create new doctrines under the California state constitution. In light of the 
+absence of any apparent foundation in California state law, this claim is dismissed.” Shen, 436 F. 
+Supp. 3d at 1315. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 22 of 29
+ER-1890
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (146 of 172)
+
+## ER-1891
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 19
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+to mitigate foreseeable dangers puts our members at risk.” But as the movant, BHU bears the 
+burden of adducing evidence of the state-created danger and it has not done so absent this sole 
+statement in the declaration and their moving papers. Mazurek v. Armstrong, 520 U.S. 968, 972 
+(1997) (“[A] preliminary injunction is an extraordinary and drastic remedy, one that should not be 
+granted unless the movant, by a clear showing, carries the burden of persuasion” (italics added).); 
+Alliance for the Wild Rockies v. Cottrell, 632 F.3d 1127, 1131 (9th Cir. 2011) (“[P]laintiffs must 
+establish that irreparable harm is likely, not just possible, in order to obtain a preliminary 
+injunction.”). BHU cannot carry this burden based merely on its counsel’s unverified assertions. 
+Singh v. Gonzalez, 221 Fed.Appx. 682, 683 (the “arguments of counsel are not evidence”); 
+Steenwyk v. Steenwyk, No. 2:20-cv-02375-FLA (AFMx), 2024 WL 2206338 at *12 fn.10 (C.D. 
+Cal. Mar. 28, 2024) (“Defendants do not cite any specific portions of the record in support of their 
+arguments. . . . The court, therefore, disregards the [] Defendants’ arguments as unsupported.”). 
+Even assuming BHU has demonstrated the City intends to abate the Harrison 
+encampment, BHU still has not shown it or its members would experience any state-created 
+danger and foreseeable harm. Prado contends the encampment “is adjacent to the only public 
+restrooms in the area accessible 24/7.” ECF No. 72-2, ¶ 6. But Prado lays no foundation for this 
+claim, nor does she define “area.” Prado’s testimony is also factually incorrect. The City 
+maintains multiple public restrooms throughout Berkeley, including in public parks. Declaration 
+of Okeya Vance-Dozier 3, submitted herein, ¶5. One of these parks, the Tom Bates Regional 
+Sports Complex, is located a few blocks from the Harrison encampment and contains a restroom 
+that is accessible at all hours. Id. BHU does not explain how abatement of the encampment 
+would prevent its members from accessing these restrooms. 
+Prado also states that “the Eighth and Harrison site is within walking distance of the 
+Dorothy Day House, where BHU members receive hot meals, clean water, and basic survival 
+supplies.” ECF No. 72-2, ¶ 7. She adds: “Many members, including those with chronic illnesses 
+and mobility limitations, cannot carry supplies long distances.” Id. First, Prado does establish 
+that BHU members would lose access to these services or otherwise specify the alleged harm they 
+would suffer. Second, the City’s HRT provides and coordinates services throughout the City
+regardless of their location. Vance-Dozier Declaration 2, ¶¶ 10-13 [ECF No. 56-2]. Even if BHU 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 23 of 29
+ER-1891
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (147 of 172)
+
+## ER-1892
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 20
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+members are forced to relocate, they could still avail themselves of these services at various 
+locations throughout Berkeley. Id. Third, Prado does not define the phrase “walking distance.” 
+That the Harrison encampment is 2.5 miles away from the Dorothy Day House compounds this 
+ambiguity. Declaration of Okeya Vance-Dozier 3, ¶4. This is approximately a 58=minute walk. 
+Id. If “many” BHU members “cannot carry supplies long distances,” how could they frequent a 
+facility that is a least an hour walk away? 
+Prado also contends “[m]any disabled residents rely on community watch groups and 
+buddy systems within the encampment to ensure safety while sleeping, particularly those who are 
+blind, hard of hearing, or managing PTSD,” and that [d]isplacement will scatter these networks 
+and leave vulnerable individuals isolated.” ECF No. 72-2, ¶ 7. Again, Prado fails to indicate 
+these residents are BHU members, such that BHU has associational standing to seek relief on 
+their behalf in the first place. But even if they had, there is no reason to credit the hypothetical 
+scenario that residents will be scattered and isolated.6
+ The City has no prohibition from unhoused 
+individuals living alongside others, the City simply desires to abate and close this particular 
+encampment which poses severe public health and safety threats. To establish liability under the 
+state-created doctrine, BHU must demonstrate the City’s actions will subject its members to “an 
+actual, particularized danger that [they] would not otherwise have face” that is “known or 
+obvious” to the City. Martinez, 943 F.3d at 1271, 1274 (emphasis added). BHU does not 
+articulate—much less substantiate—any such danger. See Polanco v. Diaz, 76 F.4th 918, 927 (9th 
+Cir. 2023) (“Affirmative state action that exposes a broad swath of the public to ‘generalized 
+dangers’ cannot support a state-created-danger claim”); Sinclair v. City of Seattle, 61 F.4th 674, 
+676, 683 (9th Cir. 2023) (holding that the plaintiff had not alleged a state-created-danger claim 
+because “the City-created danger was a generalized danger experienced by all those members of 
+the public who chose to visit” a certain part of the city). 
+Additionally, Prado maintains “several residents are receiving care from Lifelong Medical 
+and Bay Area Community Services, that come to the encampment,” and that “[m]oving them 
+without accommodation will disrupt medical treatments, interfere with mental health care, and 
+ 6 BHU’s paper-thin record does not evinces no foreseeable harm its members would face apart 
+from being “isolated,” which in and of itself does not constitute harm. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 24 of 29
+ER-1892
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (148 of 172)
+
+## ER-1893
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 21 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+jeopardize existing housing placement efforts.” ECF No. 72-2, ¶ 7. Notwithstanding this 
+conclusory and foundationless assertion, BHU makes no particularized showing its members 
+would be injured by this alleged disruption of services or that the City has denied them suitable 
+accommodations. See Coalition, 758 F.Supp.3d at 1127 (“Here, the [complaint] does not allege 
+that a Coalition member (or individual Plaintiff) suffered injuries resulting from the City’s 
+challenged conduct that created or exposed them to an actual, particularized danger they would 
+not otherwise have faced.”). In fact, the City’s HRT performs this type of outreach throughout the 
+City. Vance-Dozier Declaration 2, ¶¶ 10-13. It has implemented systems to track the 
+whereabouts of encampment residents following an abatement operation for this very purpose—
+to ensure they maintain continual access to medical treatment and mental health and housing 
+services, among other resources. Id. These systems will remain available to BHU members even 
+if the City clears the encampment and BHU makes no showing to the contrary. 
+Finally, BHU cannot meet the “stringent” standard to show the City would be acting with 
+deliberate indifference. To meet this standard, BHU would have to show that the City and its 
+officials “recognize the unreasonable risk and actually intend to expose the plaintiff to such risks 
+without regard to the consequences to the plaintiff.” Herrera v. Los Angeles Unified Sch. Dist., 18 
+F.4th 1156, 1158 (9th Cir. 2021). “Ultimately, a state actor needs to know that something is going 
+to happen but ignore the risk and expose the plaintiff to it.” Id. at 1158-1159 (citation omitted). 
+Here, the City provided more than a month’s notice from January 7, 2025 until the 
+compliance deadline of February 10, 2025. Both of the notices posted in the Harrison Corridor, 
+on January 7 and January 31, 2025, informed encampment residents of the City’s property storage 
+service, how to seek ADA accommodations, and how to lodge an appeal of the hazard 
+declaration, and information on resources to find interim or permanent housing. Vance-Dozier 1 
+Decl., Ex. A, pp. 6-8 [[[ER 2040-2047 - Exhibit A - Public Notice|ECF No. 13-1]] at 6-8] and Ex. C, pp. 6-8 [[[ER 2050-2061 - Exhibit C – Second Public Notice|ECF No. 13-3]] at 6-8]. The City 
+does not seek to prevent BHU members from seeking services or access to bathrooms, nor is it 
+accurate that BHU members have nowhere to go. See Vance-Dozier 2 Dec., ¶ 7. The City’s HRT 
+takes measures to coordinate service provisions throughout the City of Berkeley, including the 
+Harrison Corridor, through weekly case conferences with community service partner. Id., ¶ 10. At 
+those conference, the City communicates with service providers regarding unhoused members 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 25 of 29
+ER-1893
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (149 of 172)
+
+## ER-1894
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 22 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+throughout the City. Id. This system ensures a continuity of case for services of Harrison Corridor 
+encampment residence who relocate outside the abatement area. Thus, there is no evidence that 
+the City’s actions would deprive the BHU of any support they need. On these facts, the BHU 
+simply cannot credibly assert the City acted with the requisite “deliberate indifference” required 
+to sustain a state-created danger claim. Id., ¶ 9 (“I would not coordinate a closure if I knew it 
+would subject encampment residents to a danger they would otherwise not be subject to.”). 
+For these reasons, BHU fails to meet the elements of a state-created danger claim.
+C. BHU Cannot Show a Risk of Irreparable Harm. 
+“To seek injunctive relief, a plaintiff must show that he is under threat of suffering ‘injury 
+in fact’ that is concrete and particularized; the threat must be actual and imminent, not conjectural 
+or hypothetical; it must be fairly traceable to the challenged action of the defendant; and it must 
+be likely that a favorable judicial decision will prevent or redress the injury.” Summers v. Earth 
+Island Inst., 555 U.S. 488, 493 (2009); see also Adidas Am., Inc. v. Skechers USA, Inc., 890 F.3d 
+747, 760 n.8 (9th Cir. 2018) (“it is the plaintiff’s burden to put forth specific evidence from which 
+the court can infer irreparable harm”). 
+In support of a temporary restraining order and/or a preliminary injunction order, a district 
+court is required to make “requisite factual determinations regarding irreparable harm and apply 
+those factual findings to the four-factor framework to determine whether injunctive relief is 
+warranted”; failure to do so constitutes abuse of discretion. Flexible Lifeline Sys., Inc. v. Precision 
+Lift, Inc., 654 F.3d 989, 1000 (9th Cir. 2011). As the Flexible Lifeline court noted, its decision that 
+plaintiff failed to show irreparable harm is not a suggestion that plaintiff will not suffer harm; 
+instead, its decision counsels against “our undertaking a searching review of an incomplete record 
+to make the required factual findings in the first instance.” Id.; see also Herb Reed Enterprises, 
+LLC v. Florida Ent. Mgmt., Inc., 736 F.3d 1239, 1250-51 (9th Cir. 2013) (reversing district court’s 
+order granting injunction because in its “cursory and conclusory” analysis of irreparable harm, the 
+“district court made no factual findings that would support a likelihood of irreparable harm”). The 
+district court’s finding of the likelihood of irreparable harm must be based on the evidence in the 
+record. Center for Food Safety v. Vilsack, 636 F.3d 1166, 1173-73 (9th Cir. 2011) (grant of 
+preliminary injunction reversed where the district court’s findings of irreparable harm were 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 26 of 29
+ER-1894
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (150 of 172)
+
+## ER-1895
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 23 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+unsupported by the record); see also Toyo Tire Holdings of Americas Inc. v. Continental Tire N. 
+Am., Inc., 609 F.3d 975, 982 (9th Cir. 2010) (a district court must make “specific findings” with 
+respect to each of the Winter factors). 
+BHU’s argument for why it will suffer irreparable harm is simply a recitation of its 
+arguments regarding the likelihood of success on the merits of its ADA and state created danger 
+claims. Accordingly, for all of the reasons described in the two sections above, this argument fails 
+to make a showing of irreparable harm. This is especially true with regarding to the requirements 
+that irreparable harm be actual and imminent – not conjectural or hypothetical. Because BHU 
+seeks a preliminary injunction, it may not merely rely on allegations in its complaint—rather, it 
+must “proffer evidence sufficient to establish a likelihood of irreparable harm.” Herb Reed 
+Enterprises, LLC v. Florida Entertainment Management, Inc., 736 F.3d 1239, 1251 (9th Cir. 
+2013); see also Shaterian v. Wells Fargo Bank, No. C-11-920 SC, 2011 WL 2314151, at *4 (N.D. 
+Cal. June 10, 2011) (“[A] plaintiff may not support a motion for a preliminary injunction by 
+merely pointing to his complaint and the facts alleged therein.”). BHU comes nowhere close to 
+making this showing. It presents no tangible evidence the City failed to engage in the interactive 
+process with BHU members with disabilities or provide inadequate of the City’s intent to abate 
+the encampment. Further, because BHU’s arguments regarding the potential loss of bathroom 
+access, support services, case management, are not only hypothetical they are also inaccurate, 
+they cannot support a showing of irreparable harm. To the contrary, remaining in the Harrison 
+Corridor with feces, rodent infestation, scattered syringes, considerable criminal activity, and 
+almost daily calls to fire or police department would likely pose more harm than leaving the area.
+D. The Balance of the Equites and the Public Interest Disfavor this 
+Injunction.
+By contrast, the City has provided substantial evidence to support that the balance of 
+equities and the public interest disfavor this injunction. Before imposing an injunction, the court 
+“must balance the competing claims of injury and must consider the effect on each party of the 
+granting or withholding of the requested relief.” Amoco Prod. Co. v. Village of Gambell, AK, 480 
+U.S. 531, 542 (1987). The courts “should pay particular regard for the public consequences in 
+employing the extraordinary remedy of injunction.” Winter, 555 U.S. at 24 (citations omitted). 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 27 of 29
+ER-1895
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (151 of 172)
+
+## ER-1896
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 24 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+The City has allocated millions of dollars and inordinate staff time and other resources to 
+the Harrison Corridor encampment, including efforts to find residents temporary shelter and 
+permanent housing, and to mitigate the unsanitary and dangerous conditions that exist at the 
+encampment. Radu 1 Dec., Ex. A [[[ER 1918-2034 - Exhibit A – Memorandum from Peter Radu to Paul Buddenhagen Re Nuisance…|ECF No. 15-1]]]. However, despite these ongoing efforts, the 
+obstructions of the public right of way, the public health hazards, and the other dangers persist.
+Torres Dec., ¶¶ 8-9. Contrary to any claims Moving Plaintiffs assert about their efforts to keep the 
+area surrounding their vehicles tidy, the health hazard conditions in the Harrison Corridor are no 
+better now than in December 2024. Id., ¶ 9. Moreover, abating these persistent hazardous 
+conditions “first requires the removal of all debris, food sources, long-term vehicles, and other 
+obstructions.” Id., ¶ 7. The City, the public at large, and the residents of the Harrison Corridor 
+encampment all share have a vital interest in ensuring that health and safety nuisances are abated 
+and general access to the public right of way is restored. 
+V. OBJECTIONS TO EVIDENCE
+The City hereby objects to the following evidence BHU submits in support of its motion. 
+A. Declaration of Yesica Prado 
+The City objects to the Declaration of Yesica Prado on the following grounds: 
+Paragraphs 1-9: This testimony is speculative and constitutes inadmissible speculation, 
+conjecture, imagination, or guesswork, improper opinion testimony by a lay witness, and/or 
+inadmissible hearsay. Fed. R. Evid. 601-602, 701, 801-802. Prado does not aver how she 
+acquired the information set forth in these paragraphs and whether they are based on her personal 
+observations or other non-hearsay sources. Prado likewise does not establish that the assertions 
+are based on her personal knowledge. Travelers Cas. & Sur. Co. of America v. Telstar Const. 
+Co., Inc., 252 F.Supp.2d 917, 924 (D. Ariz. 2003); Carmen v. San Francisco Unified Sch. Dist., 237 F.3d 1026, 1028 (9th Cir. 2001). 
+Paragraph 8: This testimony is based on inadmissible hearsay. Fed. R. Evid. 801(c); 
+Matilla v. NorthWestern Company, No. CV 23-79-BU-SPW, 2025 WL 1042808 at *6 (D. Mont. 
+Apr. 8, 2025). The testimony is also based on unauthenticated documents. Fed. R. Evid. 901;
+see, e.g., Orr v. Bank of America, NT & SA (9th Cir. 2002) 285 F.3d 764, 773-774. 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 28 of 29
+ER-1896
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (152 of 172)
+
+## ER-1897
+
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28 25 
+CITY OF BERKELEY’S OPPOSITION TO BERKELEY HOMELESS UNION’S MOTION FOR PRELIMINARY INJUNCTION
+B. Declaration of Gordon Gilmore (Miscaptioned as “Declaration of Trista Taylor”)
+Paragraphs 1-13: This testimony is speculative and constitutes inadmissible speculation,
+conjecture, imagination, or guesswork, improper opinion testimony by a lay witness, and/or 
+inadmissible hearsay. Fed. R. Evid. 601-602, 701, 801-802. The testimony is also not relevant. 
+Fed. R. Evid. 401-403. 
+VI. CONCLUSION
+For the foregoing reasons, the City requests that the Court deny BHU’s motion for a
+preliminary injunction. 
+Dated: May 30, 2025 
+Respectfully submitted, 
+BERKELEY CITY ATTORNEY’S OFFICE
+By: 
+Laura Iris Mattes 
+Deputy City Attorney
+Attorney for City of Berkeley 
+Case 3:25-cv-01414-EMC Document 82 Filed 05/30/25 Page 29 of 29
+ER-1897
+Case: 26-2755, 07/27/2026, DktEntry: 30.11, (153 of 172)
