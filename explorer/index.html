@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BHU v. Berkeley — ER Explorer</title>
+<meta name="description" content="Interactive citation graph and full-text search over the 2,197-page Excerpts of Record in Berkeley Homeless Union v. City of Berkeley (9th Cir. Nos. 26-2755, 26-2823).">
+<script src="lib/force-graph.min.js"></script>
+<style>
+  :root {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --border: rgba(255,255,255,0.10);
+    --accent: #3987e5;
+    --t-order: #3987e5;      /* slot 1 blue */
+    --t-motion: #d95926;     /* slot 2 orange */
+    --t-decl: #199e70;       /* slot 3 aqua */
+    --t-exhibit: #c98500;    /* slot 4 yellow */
+    --t-transcript: #d55181; /* slot 5 magenta */
+    --t-docket: #008300;     /* slot 6 green */
+    --t-appeal: #9085e9;     /* slot 7 violet */
+    --t-other: #e66767;      /* slot 8 red */
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--page); color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    display: flex; flex-direction: column;
+  }
+  header {
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+    padding: 10px 18px; border-bottom: 1px solid var(--grid); background: var(--surface);
+  }
+  header h1 { font-size: 15px; margin: 0; font-weight: 650; letter-spacing: .01em; }
+  header .sub { color: var(--muted); font-size: 12px; }
+  .tabs { display: flex; gap: 4px; margin-left: auto; }
+  .tabs button {
+    background: none; border: 1px solid var(--grid); color: var(--ink-2);
+    padding: 6px 14px; border-radius: 7px; font-size: 13px; cursor: pointer;
+  }
+  .tabs button.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  .tabs a { color: var(--muted); font-size: 12px; align-self: center; margin-left: 10px; text-decoration: none; }
+  .tabs a:hover { color: var(--ink-2); text-decoration: underline; }
+  main { flex: 1; min-height: 0; position: relative; }
+  .view { position: absolute; inset: 0; display: none; }
+  .view.active { display: block; }
+
+  /* ---- Graph view ---- */
+  #graphwrap { position: absolute; inset: 0; }
+  #graph { position: absolute; inset: 0; }
+  .panel {
+    position: absolute; top: 12px; left: 12px; z-index: 5;
+    background: color-mix(in srgb, var(--surface) 92%, transparent);
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+    font-size: 12px; max-width: 250px; backdrop-filter: blur(4px);
+  }
+  .panel .row { display: flex; align-items: center; gap: 7px; margin: 3px 0; cursor: pointer; user-select: none; color: var(--ink-2); }
+  .panel .row input { accent-color: var(--accent); margin: 0; }
+  .swatch { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+  .panel select, .panel input[type=text] {
+    width: 100%; background: var(--page); color: var(--ink); border: 1px solid var(--grid);
+    border-radius: 6px; padding: 5px 7px; font-size: 12px; margin-top: 6px;
+  }
+  .panel .hint { color: var(--muted); margin-top: 8px; font-size: 11px; line-height: 1.45; }
+  #detail {
+    position: absolute; top: 12px; right: 12px; bottom: 12px; width: 330px; z-index: 5;
+    background: color-mix(in srgb, var(--surface) 94%, transparent);
+    border: 1px solid var(--border); border-radius: 10px; padding: 14px;
+    overflow-y: auto; display: none; backdrop-filter: blur(4px);
+  }
+  #detail.open { display: block; }
+  #detail h2 { font-size: 14px; margin: 0 26px 8px 0; line-height: 1.35; }
+  #detail .close { position: absolute; top: 8px; right: 10px; background: none; border: none; color: var(--muted); font-size: 18px; cursor: pointer; }
+  .typechip { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; color: var(--ink-2); border: 1px solid var(--grid); padding: 2px 8px; border-radius: 99px; margin-bottom: 8px; }
+  .meta { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: 12px; color: var(--ink-2); margin: 8px 0; }
+  .meta dt { color: var(--muted); }
+  .meta dd { margin: 0; }
+  #detail .open-link { display: inline-block; margin: 6px 0 12px; font-size: 13px; color: var(--accent); text-decoration: none; font-weight: 600; }
+  #detail .open-link:hover { text-decoration: underline; }
+  #detail h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 14px 0 6px; }
+  #detail ul { list-style: none; margin: 0; padding: 0; }
+  #detail li { font-size: 12px; margin: 4px 0; color: var(--ink-2); cursor: pointer; line-height: 1.35; }
+  #detail li:hover { color: var(--ink); text-decoration: underline; }
+
+  /* ---- Search view ---- */
+  #searchview { overflow-y: auto; }
+  .searchbox { max-width: 860px; margin: 0 auto; padding: 26px 18px 60px; }
+  .qrow { display: flex; gap: 8px; }
+  .qrow input[type=search] {
+    flex: 1; background: var(--surface); border: 1px solid var(--grid); color: var(--ink);
+    font-size: 15px; padding: 11px 14px; border-radius: 9px;
+  }
+  .qrow button {
+    background: var(--accent); color: #fff; border: none; border-radius: 9px;
+    padding: 0 20px; font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  .filters { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; align-items: center; font-size: 12px; color: var(--ink-2); }
+  .filters select, .filters input {
+    background: var(--surface); color: var(--ink); border: 1px solid var(--grid);
+    border-radius: 6px; padding: 5px 8px; font-size: 12px;
+  }
+  .filters input[type=number] { width: 78px; }
+  #status { color: var(--muted); font-size: 12px; margin: 14px 2px; }
+  .hit {
+    background: var(--surface); border: 1px solid var(--grid); border-radius: 10px;
+    padding: 12px 14px; margin: 10px 0;
+  }
+  .hit .cite { font-weight: 700; font-size: 13px; }
+  .hit .cite a { color: var(--accent); text-decoration: none; }
+  .hit .cite a:hover { text-decoration: underline; }
+  .hit .doc { color: var(--ink-2); font-size: 12px; margin: 2px 0 6px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .hit .snip { font-size: 13px; color: var(--ink-2); line-height: 1.5; }
+  .hit .snip mark { background: rgba(57,135,229,0.28); color: var(--ink); padding: 0 2px; border-radius: 3px; }
+  .examples { margin-top: 12px; font-size: 12px; color: var(--muted); line-height: 1.7; }
+  .examples code { background: var(--surface); border: 1px solid var(--grid); padding: 1px 6px; border-radius: 5px; cursor: pointer; color: var(--ink-2); }
+  footer { padding: 8px 18px; border-top: 1px solid var(--grid); color: var(--muted); font-size: 11px; background: var(--surface); }
+  @media (max-width: 720px) { #detail { width: auto; left: 12px; } .panel { max-width: 200px; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>BHU v. City of Berkeley — ER Explorer</h1>
+    <div class="sub">9th Cir. Nos. 26-2755 &amp; 26-2823 · Excerpts of Record, 2,197 pages · public court filings</div>
+  </div>
+  <div class="tabs">
+    <button id="tab-graph" class="active">Citation graph</button>
+    <button id="tab-search">Search the record</button>
+    <a href="https://robbiepowelson-code.github.io/bhu-appeal-er-vault/" target="_blank" rel="noopener">Full-text site ↗</a>
+  </div>
+</header>
+<main>
+  <div id="graphview" class="view active">
+    <div id="graphwrap"><div id="graph"></div></div>
+    <div class="panel">
+      <div id="legend"></div>
+      <select id="caseFilter">
+        <option value="">Both cases</option>
+        <option value="BHU">BHU v. Berkeley (25-cv-01414)</option>
+        <option value="Prado">Prado v. Berkeley (23-cv-04537)</option>
+      </select>
+      <input type="text" id="highlight" placeholder="Highlight nodes containing…">
+      <div class="hint">Node size = times cited by other documents. Arrows point from the citing document to the cited one. Click a node for details; drag to rearrange.</div>
+    </div>
+    <div id="detail">
+      <button class="close" onclick="closeDetail()">×</button>
+      <div id="detailBody"></div>
+    </div>
+  </div>
+  <div id="searchview" class="view">
+    <div class="searchbox">
+      <div class="qrow">
+        <input type="search" id="q" placeholder='Search all 2,197 ER pages — e.g. "reasonable accommodation" sidewalk'>
+        <button id="go">Search</button>
+      </div>
+      <div class="filters">
+        <select id="fType"><option value="">All types</option></select>
+        <select id="fCase">
+          <option value="">Both cases</option><option value="BHU">BHU</option><option value="Prado">Prado</option>
+        </select>
+        <label>ER <input type="number" id="fFrom" min="1" max="2197" placeholder="from"> – <input type="number" id="fTo" min="1" max="2197" placeholder="to"></label>
+      </div>
+      <div id="status">Quoted phrases match exactly; other words must all appear on the page. Results link to the exact ER page on the full-text site.</div>
+      <div class="examples">Try:
+        <code>"places of abode"</code>
+        <code>"sidewalk management program"</code>
+        <code>leptospirosis abatement</code>
+        <code>"no-lodging area"</code>
+        <code>"3x3"</code>
+      </div>
+      <div id="results"></div>
+    </div>
+  </div>
+</main>
+<footer>All documents are public filings from the U.S. District Court (N.D. Cal.) and the Ninth Circuit record on appeal. Built from Appellants’ Excerpts of Record, Nos. 26-2755 &amp; 26-2823. Scanned exhibit pages were OCR’d; verify quotes against the source PDFs before citing.</footer>
+
+<script>
+const TYPE_COLORS = {
+  'Order':          'var(--t-order)',
+  'Motion or Brief':'var(--t-motion)',
+  'Declaration':    'var(--t-decl)',
+  'Exhibit':        'var(--t-exhibit)',
+  'Transcript':     'var(--t-transcript)',
+  'Docket Sheet':   'var(--t-docket)',
+  'Appeal Filing':  'var(--t-appeal)',
+};
+const OTHER_COLOR = 'var(--t-other)';
+const cssColor = (v) => getComputedStyle(document.documentElement).getPropertyValue(v.slice(4,-1)).trim() || v;
+const typeColor = t => cssColor(TYPE_COLORS[t] || OTHER_COLOR);
+const typeLabel = t => TYPE_COLORS[t] ? t : 'Other / workspace';
+
+let GRAPH = null, DATA = null, nodesById = {};
+let activeTypes = new Set(Object.keys(TYPE_COLORS).concat(['Other']));
+let selected = null, neighborSet = null;
+
+fetch('data/graph.json').then(r => r.json()).then(d => {
+  DATA = d;
+  d.nodes.forEach(n => { n.indeg = 0; n.outdeg = 0; nodesById[n.id] = n; });
+  d.links.forEach(l => { nodesById[l.target].indeg += l.w; nodesById[l.source].outdeg += l.w; });
+  buildLegend(); startGraph();
+});
+
+function nodeBucket(n) { return TYPE_COLORS[n.type] ? n.type : 'Other'; }
+
+function visibleData() {
+  const cf = document.getElementById('caseFilter').value;
+  const keep = new Set();
+  const nodes = DATA.nodes.filter(n => {
+    if (!activeTypes.has(nodeBucket(n))) return false;
+    if (cf && n.case && n.case !== cf) return false;
+    if (cf && !n.case && n.type !== 'Appeal Filing') return false;
+    keep.add(n.id); return true;
+  });
+  const links = DATA.links.filter(l => keep.has(l.source.id ?? l.source) && keep.has(l.target.id ?? l.target));
+  return { nodes, links: links.map(l => ({source: l.source.id ?? l.source, target: l.target.id ?? l.target, w: l.w})) };
+}
+
+function buildLegend() {
+  const el = document.getElementById('legend');
+  const rows = Object.keys(TYPE_COLORS).concat(['Other']);
+  el.innerHTML = rows.map(t => {
+    const c = t === 'Other' ? cssColor(OTHER_COLOR) : typeColor(t);
+    const label = t === 'Other' ? 'Other / workspace' : t;
+    return `<label class="row"><input type="checkbox" checked data-type="${t}"><span class="swatch" style="background:${c}"></span>${label}</label>`;
+  }).join('');
+  el.querySelectorAll('input').forEach(cb => cb.addEventListener('change', () => {
+    cb.checked ? activeTypes.add(cb.dataset.type) : activeTypes.delete(cb.dataset.type);
+    refreshGraph();
+  }));
+}
+
+function startGraph() {
+  const elem = document.getElementById('graph');
+  GRAPH = ForceGraph()(elem)
+    .backgroundColor(cssColor('var(--page)'))
+    .graphData(visibleData())
+    .nodeId('id')
+    .nodeLabel(n => `<div style="max-width:260px"><b>${esc(n.title)}</b><br><span style="color:#c3c2b7">${esc(typeLabel(n.type))}${n.er_start ? ` · ER ${n.er_start}–${n.er_end}` : ''}${n.indeg ? ` · cited ${n.indeg}×` : ''}</span></div>`)
+    .nodeVal(n => 2 + Math.sqrt(n.indeg + 1) * 2.2)
+    .nodeColor(n => dimmed(n) ? 'rgba(137,135,129,0.25)' : typeColor(n.type))
+    .linkColor(l => linkDimmed(l) ? 'rgba(137,135,129,0.10)' : 'rgba(195,194,183,0.28)')
+    .linkWidth(l => Math.min(1 + Math.log2(l.w), 3))
+    .linkDirectionalArrowLength(3.5)
+    .linkDirectionalArrowRelPos(1)
+    .onNodeClick(n => selectNode(n))
+    .onBackgroundClick(() => closeDetail())
+    .nodeCanvasObjectMode(n => (highlightMatch(n) ? 'before' : undefined))
+    .nodeCanvasObject((n, ctx, scale) => {
+      ctx.beginPath();
+      ctx.arc(n.x, n.y, (2 + Math.sqrt(n.indeg + 1) * 2.2) + 3, 0, 2 * Math.PI);
+      ctx.strokeStyle = '#ffffff'; ctx.lineWidth = 1.5 / scale; ctx.stroke();
+    });
+  window.addEventListener('resize', sizeGraph); sizeGraph();
+  document.getElementById('caseFilter').addEventListener('change', refreshGraph);
+  document.getElementById('highlight').addEventListener('input', () => GRAPH.nodeColor(GRAPH.nodeColor()));
+}
+function sizeGraph() {
+  const wrap = document.getElementById('graphwrap');
+  GRAPH.width(wrap.clientWidth).height(wrap.clientHeight);
+}
+function refreshGraph() { GRAPH.graphData(visibleData()); }
+function highlightMatch(n) {
+  const q = document.getElementById('highlight').value.trim().toLowerCase();
+  return q && n.title.toLowerCase().includes(q);
+}
+function dimmed(n) { return neighborSet && !neighborSet.has(n.id); }
+function linkDimmed(l) {
+  if (!neighborSet) return false;
+  const s = l.source.id ?? l.source, t = l.target.id ?? l.target;
+  return !(s === selected?.id || t === selected?.id);
+}
+function selectNode(n) {
+  selected = n;
+  neighborSet = new Set([n.id]);
+  DATA.links.forEach(l => {
+    const s = l.source.id ?? l.source, t = l.target.id ?? l.target;
+    if (s === n.id) neighborSet.add(t);
+    if (t === n.id) neighborSet.add(s);
+  });
+  GRAPH.nodeColor(GRAPH.nodeColor());
+  renderDetail(n);
+}
+function closeDetail() {
+  selected = null; neighborSet = null;
+  document.getElementById('detail').classList.remove('open');
+  if (GRAPH) GRAPH.nodeColor(GRAPH.nodeColor());
+}
+function renderDetail(n) {
+  const cites = DATA.links.filter(l => (l.source.id ?? l.source) === n.id).map(l => nodesById[l.target.id ?? l.target]);
+  const citedBy = DATA.links.filter(l => (l.target.id ?? l.target) === n.id).map(l => nodesById[l.source.id ?? l.source]);
+  const cite = n.volume && n.er_start ? `${n.volume}-ER-${n.er_start}` : '';
+  document.getElementById('detailBody').innerHTML = `
+    <h2>${esc(n.title)}</h2>
+    <span class="typechip"><span class="swatch" style="background:${typeColor(n.type)}"></span>${esc(typeLabel(n.type))}</span>
+    <dl class="meta">
+      ${n.case ? `<dt>Case</dt><dd>${n.case === 'BHU' ? 'BHU v. Berkeley' : 'Prado v. Berkeley'}</dd>` : ''}
+      ${n.filed ? `<dt>Filed</dt><dd>${esc(n.filed)}</dd>` : ''}
+      ${n.docket ? `<dt>Docket</dt><dd>${esc(n.docket)}</dd>` : ''}
+      ${n.er_start ? `<dt>ER pages</dt><dd>${n.er_start}–${n.er_end} (Vol. ${n.volume})</dd>` : ''}
+      ${cite ? `<dt>Cite</dt><dd>${cite}</dd>` : ''}
+    </dl>
+    ${n.url ? `<a class="open-link" target="_blank" rel="noopener" href="${n.url}">Read full text ↗</a>` : ''}
+    ${citedBy.length ? `<h3>Cited by (${citedBy.length})</h3><ul>${citedBy.map(m => `<li onclick="jump('${cssEsc(m.id)}')">${esc(m.title)}</li>`).join('')}</ul>` : ''}
+    ${cites.length ? `<h3>Cites (${cites.length})</h3><ul>${cites.map(m => `<li onclick="jump('${cssEsc(m.id)}')">${esc(m.title)}</li>`).join('')}</ul>` : ''}
+  `;
+  document.getElementById('detail').classList.add('open');
+}
+function jump(id) {
+  const n = GRAPH.graphData().nodes.find(x => x.id === id) || nodesById[id];
+  if (n && n.x !== undefined) { GRAPH.centerAt(n.x, n.y, 600); GRAPH.zoom(3, 600); }
+  selectNode(nodesById[id]);
+}
+const esc = s => (s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const cssEsc = s => (s || '').replace(/\\/g,'\\\\').replace(/'/g, "\\'");
+
+/* ---- tabs ---- */
+const views = { graph: document.getElementById('graphview'), search: document.getElementById('searchview') };
+document.getElementById('tab-graph').onclick = () => setTab('graph');
+document.getElementById('tab-search').onclick = () => setTab('search');
+function setTab(t) {
+  document.getElementById('tab-graph').classList.toggle('active', t === 'graph');
+  document.getElementById('tab-search').classList.toggle('active', t === 'search');
+  views.graph.classList.toggle('active', t === 'graph');
+  views.search.classList.toggle('active', t === 'search');
+  if (t === 'graph' && GRAPH) sizeGraph();
+  if (t === 'search') ensurePages();
+}
+
+/* ---- search ---- */
+let PAGES = null, pagesPromise = null;
+function ensurePages() {
+  if (pagesPromise) return pagesPromise;
+  setStatus('Loading the record for search (one-time, ~5 MB)…');
+  pagesPromise = fetch('data/pages.json').then(r => r.json()).then(p => {
+    PAGES = p.map(x => ({...x, lt: x.t.toLowerCase()}));
+    setStatus(`Ready — ${PAGES.length.toLocaleString()} ER pages loaded.`);
+    return PAGES;
+  }).catch(e => setStatus('Could not load page data: ' + e));
+  return pagesPromise;
+}
+function setStatus(s) { document.getElementById('status').textContent = s; }
+function parseQuery(q) {
+  const phrases = [], terms = [];
+  q.replace(/"([^"]+)"/g, (_, p) => { phrases.push(p.toLowerCase()); return ''; })
+   .split(/\s+/).filter(Boolean).forEach(t => { if (!t.startsWith('"')) terms.push(t.toLowerCase()); });
+  return { phrases, terms: terms.filter(t => !phrases.some(p => p.includes(t))) };
+}
+async function runSearch() {
+  await ensurePages();
+  const qRaw = document.getElementById('q').value.trim();
+  const results = document.getElementById('results');
+  if (!qRaw) { results.innerHTML = ''; return; }
+  const { phrases, terms } = parseQuery(qRaw);
+  const fType = document.getElementById('fType').value;
+  const fCase = document.getElementById('fCase').value;
+  const from = +document.getElementById('fFrom').value || 1;
+  const to = +document.getElementById('fTo').value || 2197;
+  const t0 = performance.now();
+  const hits = [];
+  for (const p of PAGES) {
+    if (p.er < from || p.er > to) continue;
+    const doc = p.d ? nodesById[p.d] : null;
+    if (fType && (!doc || nodeBucket(doc) !== fType && doc.type !== fType)) continue;
+    if (fCase && (!doc || doc.case !== fCase)) continue;
+    let pos = -1;
+    let ok = true;
+    for (const ph of phrases) { const i = p.lt.indexOf(ph); if (i < 0) { ok = false; break; } if (pos < 0) pos = i; }
+    if (ok) for (const t of terms) { const i = p.lt.indexOf(t); if (i < 0) { ok = false; break; } if (pos < 0) pos = i; }
+    if (ok) { hits.push({ p, pos: Math.max(pos, 0) }); if (hits.length >= 400) break; }
+  }
+  const ms = (performance.now() - t0).toFixed(0);
+  const needles = phrases.concat(terms);
+  results.innerHTML = hits.slice(0, 200).map(({p, pos}) => {
+    const doc = p.d ? nodesById[p.d] : null;
+    const url = doc && doc.url ? `${doc.url}#er-${p.er}` : null;
+    const cite = `${p.v}-ER-${p.er}`;
+    const s = Math.max(0, pos - 110), e = Math.min(p.t.length, pos + 240);
+    let snip = esc((s > 0 ? '…' : '') + p.t.slice(s, e).replace(/\n/g, ' ') + (e < p.t.length ? '…' : ''));
+    for (const n of needles) snip = snip.replace(new RegExp(escRe(esc(n)), 'gi'), m => `<mark>${m}</mark>`);
+    return `<div class="hit">
+      <div class="cite">${url ? `<a href="${url}" target="_blank" rel="noopener">${cite} ↗</a>` : cite}</div>
+      <div class="doc">${doc ? `<span class="swatch" style="background:${typeColor(doc.type)}"></span>${esc(doc.title)}` : 'Volume cover page'}</div>
+      <div class="snip">${snip}</div>
+    </div>`;
+  }).join('');
+  setStatus(`${hits.length >= 400 ? '400+' : hits.length} page${hits.length === 1 ? '' : 's'} matched in ${ms} ms${hits.length > 200 ? ' — showing first 200' : ''}.`);
+}
+const escRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+document.getElementById('go').onclick = runSearch;
+document.getElementById('q').addEventListener('keydown', e => { if (e.key === 'Enter') runSearch(); });
+document.querySelectorAll('.examples code').forEach(c => c.onclick = () => { document.getElementById('q').value = c.textContent; setTab('search'); runSearch(); });
+// populate type filter
+setTimeout(() => {
+  const sel = document.getElementById('fType');
+  Object.keys(TYPE_COLORS).forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; sel.appendChild(o); });
+}, 500);
+</script>
+</body>
+</html>
